@@ -1,0 +1,23 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./power.dat
+   writing file ./factory.Aufwindkraftwerk.pak
+      packing factory.Aufwindkraftwerk
+   writing file ./factory.Geokraftwerk.pak
+      packing factory.Geokraftwerk
+   writing file ./factory.Turmkraftwerk.pak
+      packing factory.Turmkraftwerk
+   writing file ./factory.thermisches_Solarkraftwerk.pak
+      packing factory.thermisches_Solarkraftwerk
+   writing file ./factory.Rinnenkraftwerk.pak
+      packing factory.Rinnenkraftwerk
+   writing file ./factory.Windkraftwerk.pak
+      packing factory.Windkraftwerk
+   writing file ./factory.Oelkraftwerk.pak
+      packing factory.Oelkraftwerk
+   writing file ./factory.Kohlekraftwerk.pak
+      packing factory.Kohlekraftwerk

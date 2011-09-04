@@ -1,0 +1,22 @@
+# Modified by Carl Baker for pak64.experimental, Sept 2011
+
+Obj=building
+Name=ElementarySchool
+copyright=Patrick
+Type=cur
+Build_Time=5000
+Passengers=16
+Chance=30
+Dims=2,3,2
+BackImage[0][0][0][0][0]=elementary_school_1.3.2
+BackImage[0][1][0][0][0]=elementary_school_1.3.1
+BackImage[0][2][0][0][0]=elementary_school_1.3.0
+BackImage[0][0][1][0][0]=elementary_school_1.4.2
+BackImage[0][1][1][0][0]=elementary_school_1.4.1
+BackImage[0][2][1][0][0]=elementary_school_1.4.0
+BackImage[1][0][0][0][0]=elementary_school_1.0.1
+BackImage[1][1][0][0][0]=elementary_school_1.0.0
+BackImage[1][0][1][0][0]=elementary_school_1.1.1
+BackImage[1][1][1][0][0]=elementary_school_1.1.0
+BackImage[1][0][2][0][0]=elementary_school_1.2.1
+BackImage[1][1][2][0][0]=elementary_school_1.2.0

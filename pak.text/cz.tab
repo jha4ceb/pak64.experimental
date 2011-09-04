@@ -1,0 +1,952 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                             Language: cz Cestina                             #
+#                             Encoding: ISO-8859-2                             #
+#                            Font : prop-latin2.fnt                            #
+#                            Date Created: 9.09 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                                    - JOHNY                                   #
+#                                    note:                                     #
+#                        Václav Macùrek - VaclavMacurek                        #
+#                                    note:                                     #
+#                                   - hernajs                                  #
+#                                    note:                                     #
+#                              Tomá¹ Kube¹ - napik                             #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                            Oliver Mayer - rakishly                           #
+#                                    note:                                     #
+#                         Tomá¹ Vrbický - vrbicky_tomas                        #
+#                     note: Don´thurry up! Death is faster.                    #
+#                            Vladimír Slávik - vsys                            #
+#                             note: Vladimír Slávik                            #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Betonový ¾eleznièní most
+ClassicRoad
+Betonový silnièní most
+koka_Bridge_single
+Ocelový ¾eleznièní most
+MaglevBridge
+Most magnetické dráhy
+mlm_concrete_bridge
+Betonový most magnetické dráhy
+ModernRoad
+Moderní silnièní most z pøedpjatého betonu
+MonorailRamp
+Nájezd jednokolejky
+PowerBridge
+Most pro dráty vysokého napìtí
+Schiffhebewerk
+Lodní zdvi¾
+SteelRail
+Nosníkový ¾eleznièní most
+tb_classic_road
+Betonový most
+ViaductRail
+kamenný most
+WoodenRoad
+Døevìný most
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_01_CITY
+Radnice
+01_CITY
+Mìstská radnice
+02_CITY
+Radnice
+03_CITY
+Radnice
+03_CITY_A
+Radnice
+03_CITY_B
+Radnice
+03_CITY_C
+Radnice
+04_CITY
+Radnice
+04_CITY_A
+Radnice
+04_CITY_B
+Radnice
+04_CITY_C
+Radnice
+10_WOHN
+Kostel sv. Luká¹e\n\nMalá, ale rostoucí farnost. Jejich misie ve mìstì pøitahuje mnoho nových èlenù a náv¹tìvníkù.\n
+1930AirDepot
+Hangár (1930)
+1headquarter
+Sídlo va¹í spoleènosti (1. úroveò)
+2headquarter
+Sídlo va¹í spoleènosti (2. úroveò)
+3headquarter
+Sídlo va¹í spoleènosti (3. úroveò)
+A1_ALTE_KIRCHE
+Slavný kostel\n\nSlavný starý kostel. Tato\nfantastická budova láká\nspoustu turistù.\n
+A2_SCHLOSS1
+Neuschwanstein\n\nKostel 'Bláznivého krále'.\nOpravdu velmi cenìná\npodívaná!\n
+A3_BURG1
+Zøícenina hradu\n\nPro turisty je také velmi\nzajímavá tajemná historie\nhradu.\n
+A4_SCHLOSS2
+Starý zámek\n\nTento starý zámek je hojnì\nnav¹tìvován turisty.\n
+A5_STONEHENGE
+Stonehenge\n\nTato megalitická stavba\nvzniklá v pozdní dobì\nkamenné je dodnes velkou\nzáhadou.\n
+A6_DOME
+Katedrála\n\nTato obrovská impozantní\nkatedrála patøí ke svìtovým\nunikátùm. Zajisté nejvìt¹í\nturistická atrakce v ¹irém\nokolí.\n
+AirDepot
+Hangár (1900)
+AirportShed1930
+Leti¹tní po¹tovní sklad (1901)
+AirStop
+výstupní schùdky\n
+AirTerminal477
+Leti¹tní terminál (1950)
+Avila_Big_StationBlg
+Velká nádra¾ní budova
+Avila_Small_StationBlg
+Malá nádra¾ní budova
+Avila_Warehouse_StationBlg
+Skladi¹tì
+BigPostOffice
+Velká po¹ta
+BigTerminal477
+Velký moderní terminál
+Bulk_StationBlg
+Sklady sypkého zbo¾í
+BusStop
+Autobusová zastávka\n
+Car_StationBlg
+Pøekladi¹tì automobilù
+CarDepot
+Depo pro silnièní vozidla
+CarStop
+Nákladová rampa\n
+ChannelStop
+Molo na vodním kanále
+COM_00_01
+Samoobsluha\n
+COM_00_02
+Nezávislá benzínová stanice\n\nJe nezávislá na na\ntransportních korporacích\njako ta tvoje, ale není\npotøeba ji hned bourat.\nNevezme ¾ádné tvé\nzákazníky\n
+COM_00_03
+Opravna aut\n
+COM_00_05
+Banka\n
+COM_00_06
+Kavárna\n
+COM_00_08
+Èin¾ovní dùm s obchody v\npøízemí\n
+COM_00_10
+Kanceláøský vìzák\n
+COM_00_12
+Kaceláøská budova\n
+COM_00_14
+Moderní kanceláøská\nbudova s prosklenými\nschodi¹ti\n
+COM_00_18
+Moderní vì¾ák s\nkanceláøemi\n
+COM_00_22
+Budova OSN, pro somálskou\ndelegaci\n
+COM_01_01
+Odtud mù¾ete vyrazit na\nnezapomenutelný\nvyhlídkový let\nhorkovzdu¹ným balónem!\n
+COM_01_09
+Kino\n
+COM_01_17
+Kanceláøská budova.\n
+COM_01_18
+Vý¹ková kanceláøská\nbudova\n
+COM_01_20
+Kanceláøská budova s\nheliportem pro pana\ngenerálního\n
+COM_01_22
+Kanceláøská budova\n
+COM_02_02
+parkovi¹tì\n
+COM_02_13
+Kino Mír\n
+COM_02_16
+Kanceláøe, s minimálním\nmno¾stvím oken.\n
+COM_02_17
+Kanceláøe s masivní\nventilací. \n
+COM_03_15
+Dùm kultury\n
+COM_10_01
+nádhera, ¾e?\n
+Control_StationBlg
+®eleznièní hradlo
+DenkFlor
+Tento pomník je vìnován\nFlorovi 'WF Ultd.'\nWautersovi, slavnému\nin¾enýrovi, který vytvoøil\nmno¾ství skvìlých\nsilnièních a ¾eleznièních\nvozidel. Je také dobøe známý\nza návrhy mnoha skvìle\nfungujících továren.\n
+DenkHajo
+Tento pomník je vìnován\nHansjörgu Mathanerovi,\nkterý za 7 let vytvoøil tuto\nhru. Opravdový polobùh.\n
+DenkMHz
+Tento pomník je vìnován\nGeorgu Heidukovi, mistrovi\narchitektury.\n
+DenkOwen
+Toto místo je vìnováno\nOwenovi Rudgeovi,\nslavnému finanènímu\nexpertovi a zvukovému\ntechnikovi.\n
+DenkSeth
+Tento pomník je vìnován\nSethovi C. Triggsovi,\nslavnému architektovi,\nkterý navrhl mnoho\npøekrásných domu. Je také\ndobøe známý za vytvoøení\nmnoha studií, jak zlep¹it\ndopravní systémy.\n
+DenkTomas
+Tento pomník je vìnován\nTomá¹i Kube¹ovi, který\npomohl zdokonalit\nSimutrans v mnoha, mnoha\nsmìrech, a to radami a\ntvrdou prací.\n
+DenkTrikky
+Tento pomník je vìnován\n'Trikkymu' Rick McGrealovi,\nslavnému architektovi který\nnavrhl spoustu pùsobivých\nbudov.\n
+DenkVM
+Tento pomník je vìnován\nManfredu 'VT Vienna'\nTomaschitzovi, slavnému\nin¾enýrovi, který navrhl\nspoustu kvalitních\n¾eleznièních vozidel.\n
+DenkVolker
+Postaveno Volkerem\nMeyerem, který zdokonalil\nSimutrans v mnoha, mnoha\noblastech.\n
+Feste
+Pevnost\n\nTato témìø nedobytná pevnost\nbyla zalo¾ena zaèátkem 15.\nstoletí.\n
+Fluid_StationBlg
+Zásobník na kapaliny
+FreightTrainStop
+Nakládací stanice
+Gas_StationBlg
+Zásobník plynu
+GCG1TrainStop
+Levá strana velké nádra¾ní haly
+GCG2TrainStop
+Pravá strana velké nádra¾ní rampy
+Goods_StationBlg
+Sklad
+Gymnasium
+Gymnázium\n
+IND_00_01
+Skladi¹e\n
+IND_00_02
+Malé skladi¹te\n
+IND_00_03
+Silo na benzín/ropu\n
+IND_00_04
+Válcovna plechù\n
+IND_00_05
+Vodojem\n
+IND_00_06
+Továrna\n
+IND_00_09
+Skladi¹tì uhlí\n
+IND_00_10
+Malá továrna\n
+IND_00_12
+Strojírna\n
+IND_00_14
+Továrna na optiku\n
+IND_00_16
+Moderní továrna\n
+IND_00_17
+Továrna\n
+IND_00_18
+Teplárna\n
+IND_01_01
+Parkovi¹tì\n
+IND_01_03
+Nádr¾ na kapalný dusík\n
+IND_01_04
+Stodola\n
+IND_01_06
+Postar¹í továrna postavená\nz èervených neomítaných\ncihel\n
+IND_01_07
+Transformátorová stanice\n
+IND_01_08
+Továrna na umìlá hnojiva\n
+IND_01_09
+Pøeèerpávací stanice\n
+IND_01_10
+Továrna na náøadí\n
+IND_01_11
+Továrna na tyèinky\n"Venus"\n
+IND_01_12
+Továrna.\n\nHlavnì na ply¹ové medvídky\n
+IND_01_15
+Továrna na absolutno\n
+IND_02_01
+Tøídírna odpadu\n
+IND_02_02
+Spalovna pneumatik\n
+IND_02_06
+Továrna na supermoderní\nprocesor "Pentilium"\n
+LargeShipStop
+Velký nakládací jeøáb
+LeuchtturmShipStop
+Pøístavní molo s majákem
+Lighthouse
+Maják\n
+MainTerminal1930
+Hlavní terminál (1930)
+MHzSmallStation
+Malá stanice (od MHz)
+ModernAirTerminal477
+Morerní leti¹tní hala
+MonorailDepot
+Depo magnetické dráhy
+MonorailFoundation
+Základy jednokolejky
+MonorailGround
+Podlo¾í jednokolejky
+OldTownhall
+Stará radnice\n
+Patricks_Rock
+Èedièová hora\n\nPo miliony let z vulkánu\nvytékala láva a vytvoøila\ntento pozoruhodný pøírodní\núkaz, na který se dnes\njezdí dívat turisté z ¹irého\nokolí.\n
+PlainAirStop
+Stání pro letadlo
+PostOffice
+Po¹ta
+PostStop
+Schránka na po¹tu
+PSFreightTrainStop
+Nakládací stanice
+PSHall1TrainStop
+Nádra¾ní hala s trafikou
+PSHall2TrainStop
+Nádra¾ní hala
+RES_00_06
+Fontána. I kdy¾ to není\npøímo ¾enevská fontána,\ntak stále potì¹í\nkolemjdoucí, zejména v\nlétì.\n
+RES_00_07
+Rodinný domek s gará¾í\n
+RES_00_08
+Rodinný domek\n
+RES_00_09
+Men¹í park s jezírkem\n
+RES_00_10
+Moistboyovo sídlo\n
+RES_00_11
+Postar¹í èin¾ovní dùm\n
+RES_00_12
+Vila \n
+RES_00_13
+Rodinný dvojdomek\n
+RES_00_16
+Stará vila\n
+RES_00_17
+I pro takové barabizny jako\ntato existovalo vyuètování\nza vytápìní pro ka¾dý byt\nzvlá¹» - ka¾dý si platil za\nsvoje døevo\n
+RES_00_18
+Star¹í bytovka s bilboardem\n
+RES_00_19
+Moderní dùm plný\napartmánù\n
+RES_00_21
+Panelák\n\nPatøí mezi díla vrcholného\nreálného socialismu.\nNetøeba se bát, tvoje\ndopravní firmièka nebude\nzestátnìna.\n
+RES_00_23
+Apartmány\n
+RES_01_01
+Malý domeèek se zahradou\n
+RES_01_02
+Áèkový dùm\n
+RES_01_05
+Domek\n
+RES_01_07
+Luxusní domek\n
+RES_01_08
+Rodinný dùm se zahradou\n
+RES_01_10
+Moderní vícepatrová vila\n
+RES_01_12
+Cihlová bytovka\n
+RES_01_15
+Bytovka\n
+RES_01_21
+Moderní vì¾ák\n
+RES_01_22
+Budova s byty\nvýtah vìt¹inou nefunguje,\nproto èím vý¹ je byt, tím je\nlevnìj¹í. \n
+RES_01_23
+Vý¹ková budova s byty.\nZákladní prvek ka¾dého\nsídli¹tì\n
+RES_02_01
+Chý¹e v palmovém háji\n
+Residenz
+Rezidence\n\nToto místo u¾ívá místní uèitel\nJógy k výuce meditace a\nvnitøního klidu a míru.\n
+RUIN_0
+Zøícenina hradu\n\nPro turisty je také velmi\nzajímavá tajemná historie\nhradu.\n
+SandStationMHz
+Prosté nástupi¹tì
+ShipDepot
+Lodìnice
+ShipStop
+Pøístav
+STADIUM2
+Velký stadion Tento veliký\nstadion s kapacitou 25 000\nosob èasto hostí rozlièné\nsportovní události.\n
+Tennis_Court
+Tenisový kurt\n
+Theatre
+Divadlo\n
+Tower1930
+Leti¹tní vì¾ (1930)
+TowerMoistboy
+Leti¹tní vì¾ (by Moistboy)
+TrainDepot
+®eleznièní depo
+TrainStop
+Zastøe¹ené nástupi¹tì\n
+TramDepot
+Vozovna tramvají
+VictorianStation
+Zastávka ve viktoriánském stylu
+Vorplatz
+Místo pøed zastávkou
+Windmill
+Vìtrný mlýn\n
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+Ambulanz
+Sanitka
+FordT
+Ford model T
+green_car
+Zelený rodinný sedan
+Motorrad
+Motorka
+orange_bus
+Oran¾ový autobus
+Pickup
+Pick-up
+yellow_car
+®luté auto
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+factory_bakery_details
+<title>Pekárna - detaily</title>\n<h1>Pekárna</h1>\n<p>První doklady o obilí pro úèely stravování jsou dolo¾eny od samého poèátku zemìdìlství, ba je¹tì do dob sbìraèù. Ov¹em co bylo nalezeno jako obilí, by nám dnes pøipadalo jen jako tráva: a) ¹lo o ¹irou smìs zrn, b) obilí, jak je známe dnes, pro¹lo znaènou ¹lechtitelskou promìnou.</p><p>Podstatným milníkem v historii peèiva byl pøechod od peèení na kameni k vynálezu pece: Ta se svou tepelnì akumulaèní schopností pøinasla vy¹¹í teploty, rovnomìrnìj¹í peèení ze v¹ech stran, trvalej¹í teplo s mo¾ností peèení rùzných peèiv jak teplota po vyhøátí a ometení uhlíkù zvolna klesá, ménì promìnlivé prostøedí a vneposlední øadì také vy¹¹í úèinnost a úspory energie, paliva.</p><p>Za hlavní evropské obiloviny pro potraviny lze oznaèit ¾ito a p¹enici. S postupem doby je vidìt nárùst podílu vyu¾ívání p¹enice na úkor ¾ita: Podíl svìtlého p¹enièného peèiva se dlouhodobì zvy¹uje. S módou racionální vý¾ivy v západním svìtì lze pozorovat znovuobjevování tmavého peèiva, tedy ¾itné mouky a dal¹ích alternativ.</p>\n
+factory_brewery_details
+<title>Pivovar - detaily</title>\n<h1>Pivovar</h1>\n<p>Pivovar je technologický celek vyrábìjící pivo. Pivovar je obvykle rozdìlen do nìkolika samostatných provozù, které odpovídají jednotlivým fázím výroby. Velikost pivovaru se mù¾e pohybovat od malého domácího témìø kuchyòského provozu a¾ po velký prùmyslový podnik. Variabilita existuje i v konkrétní technologii vaøení piva. V Èesku ale prakticky v¹echny pivovary u¾ívají metodu spodního kva¹ení a vyrábìjí piva plzeòského typu.</p>
+factory_cannery_details
+<title>Konzervárna - detaily</title>\n<h1>Konzervárna</h1>\n<p>Konzerva pochází od slova konzervovat, jedná se o ka¾dý zásobník urèený pro dlouhodobé skladování a konzervaci netrvanlivých komodit, zejména potravin, a to v bì¾ných teplotních a vlhkostních podmínkách.</p><p>Èasto se jedná o plechovou pikslu nebo obyèejnou èirou sklenìnou nádobu opatøenou plechovým víèkem. Kromì vlastní konzervace potravin konzerva také slou¾í k bezpeènému transportu, k lep¹ímu uskladnìní pøíslu¹né komodity, nejèastìji se jedná o potraviny.</p><p>V pøevá¾né míøe se jedná o válcové tvary (nejèastìji pro ovoce, barvy, oleje atd.), ve tvaru kvádru (pro maso, paliva v kanystrech atd.), malé podlouhlé nádobky pro moøské rybièky (tzv. olejovky) atd. Kovové konzervy se vyrábìjí nejèastìji z ocelového plechu pota¾eného cínem, nebo novìji z hliníkových slitin.</p>\n
+factory_Cementmill_details
+Cementárna
+factory_Concretefactory_details
+<title>Betonárka - detaily</title>\n<h1>Betonárka</h1><p>Beton je umìlý slepenec a patøí mezi nejpou¾ívanìj¹í kompozitní materiály. Nejèastìj¹í forma je tzv. cementový beton, kde je pojivem cement a plnivem kamenivo; dal¹ím materiálem pro výrobu je voda. Kromì cementovýho betonu existuje je¹tì asfaltový beton, co¾ je materiál, ze kterého jsou vyrábìny asfaltové vozovky.</p>
+factory_cow_farm_details
+<title>Kravín - detaily</title>\n<h1>Kravín</h1><p>Zde se chovají krávy pro maso a nebo pro mléko. Vedle prasete je tur domácí jedním z neju¾iteènìj¹ích chovných zvíøat.</p>
+factory_dairy_details
+<title>Mlékárna - detaily</title>\n<h1>Mlékárna</h1><p>Mlékárna je továrna, ve které se zpracovává mléko na velké mno¾ství produktù. Napø. jogurt byl vymy¹len v Radlické mlékárnì na Smíchovì. Nìkolik l¾ièek jahodové marmelády na povrchu jogurtu mìlo zabránit vytváøení plísní na jogurtu.</p>
+factory_Druckerei_details
+<title>Tiskárna - detaily</title>\n<h1>Tiskárna</h1><p>Polygrafie je výrobní obor, který zpracovává a tiskem rozmno¾uje textové a obrazové pøedlohy. Zahrnuje tyto základní výrobní fáze: zhotovování tiskových forem, tisk, dokonèovací výroba a pøidru¾ené odborné èinnosti.</p>
+factory_Erzbergwerk_details
+<title>Dùl na ¾eleznou rudu - detaily</title>\n<h1>Dùl na ¾eleznou rudu</h1><p>®elezná ruda je hornina, minerál, který obsahuje ¾elezo v takové chemické formì, která umo¾òuje jeho hospodárné získání hutnickými metodami. ®elezné rudy se zpravidla tì¾í hornickým zpùsobem. Jsou to jednak hlubinné doly nebo mnohem èastìji povrchová tì¾ba.</p><p>Úpravárenskými pochody jako drcením v èelis»ových a válcových drtièích, praním a flotací se takto vytì¾ená surová ruda zbavuje hlu¹iny a dosáhne se vy¹¹ího obsahu ¾eleza. Takto upravená a obohacená ruda se dopravuje do hutních podnikù.</p>
+factory_fish_pond_details
+<title>Chovný rybník - detaily</title>\n<h1>Chovný rybník</h1><p>Metody chovu Tøeboòského kapra vycházejí z bohaté historie tøeboòského rybníkáøství. Vlastní výrobní cyklus Tøeboòského kapra pøedstavuje dobu, která uplyne od výtìru a¾ do prodeje tr¾ních ryby. Základním principem je metoda oddìleného chovu ryb podle stáøí.</p><p>Celý proces zaèíná v øízeném prostøedí na rybí líhni, kde probíhá umìlý výtìr, váèkový plùdek je pak vysazován do speciálních plùdkových rybníkù a dále je pøelovován do násadových a hlavních rybníkù. Doba rùstu tr¾ní ryby Tøeboòského kapra trvá 3 anebo 4 roky.</p><p>Zcela zvlá¹tní pozornost je vìnována chovu generaèních ryb Tøeboòského kapra, který probíhá oddìlenì od chovu kaprù urèených ke konzumaci.</p>
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+2Raffinerie
+Benzínová rafinerie
+3Raffinerie
+Rafinerie
+Aufwindkraftwerk
+Vìtrná elektrárna
+Autohaus
+Autosalón
+Autohersteller
+Automobilka
+bakery
+Pekaøství
+brewery
+Pivovar
+Buchgrosshandel
+Kni¾ní velkoobchod
+cannery
+Konzervárna
+Cementmill
+Cementárna
+ChemicalPlant
+Chemièka
+CHEMIST
+Lékárna
+Concretefactory
+Betonárka
+cow_farm
+Kravín
+dairy
+Mlékárna
+Druckerei
+Tiskárna
+Erzbergwerk
+®eleznorudný dùl
+fish_pond
+Chovný rybník
+fish_swarm
+Rybí hejno
+food_processing_plant
+Závod na výrobu potravin
+grain_farm
+Obilná pole
+grain_mill
+Mlýn
+Kohlegrube
+Uhelný dùl
+Kohlekraftwerk
+Elektrárna
+Materialswholesale
+Velkoob. s materiálem
+Moebelfabrik
+Truhlárna
+Moebelhaus
+Obchod s nábytkem
+Nutzwald
+Les
+Oelbohrinsel
+Ropná plo¹ina
+Oelfeld
+Ropné pole
+Oelkraftwerk
+Olejová elektrárna
+Oelpumpe
+Ropná pumpa
+Papierfabrik
+Papírna
+Pharmaceutics
+Továrna na léky
+Raffinerie
+Rafinerie
+Saegewerk
+Pila
+SaegewerkMHz
+Stará pila
+Sandquarry
+Píseèný lom
+Stahlwerk
+Slévárna
+Stonequarry
+Kamenolom
+supermarket
+Supermarket
+TANKE
+Èerpací stanice
+Windkraftwerk
+Vìtrná elektrárna
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+Automobily
+beer
+piva
+Bretter
+Prkna
+Buecher
+Knihy
+canned_food
+konzerv
+Chemicals
+Chemikálie
+Concrete
+Beton
+Eisenerz
+®elezná ruda
+fish
+ryb
+flour
+mouky
+food
+jídla
+Gasoline
+Benzín
+grain
+obilí
+Holz
+Døevo
+Kohle
+Uhlí
+meat
+masa
+Medicine
+Léky
+milk
+mléka
+Moebel
+Nábytek
+None
+Nic
+Oel
+Ropa
+Papier
+Papír
+Passagiere
+Cestující
+Plastik
+Plast
+Post
+Po¹ta
+PrintersInk
+Tiskárnový inkoust
+Sand
+Písek
+Stahl
+Ocel
+Stone
+Kámen
+waste
+Odpad
+#__________________________________ground_obj___________________________________
+#__________________________________ground_obj___________________________________
+rocks
+kamení
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+Couple
+Milenci
+Cyclist
+Cyklista
+pedestrian_1
+Chodec 1
+pedestrian_2
+Chodec 2
+pedestrian_3
+Chodec 3
+pedestrian_4
+Chodec 4
+pedestrian_child
+Chodec s dítìtem
+pedestrian_dog
+Chodec se psem
+Woman
+®ena
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+kusù zbo¾í
+CATEGORY_02
+sypké zbo¾í
+CATEGORY_03
+ropa/benzín
+CATEGORY_04
+mra¾eného zbo¾í
+CATEGORY_05
+tekuté potraviny
+CATEGORY_06
+Døevo
+rolls
+ rolí
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+choose_point
+Znaèka vyber pøí¹tí zastávku
+ChooseSignals
+Návìstidlo volby stanièní koleje
+ChooseSignalsMonorail
+Návìstidlo volby stanièní koleje
+Endofchoosetrack
+Návìstidlo zákazu volby stanièní koleje
+LongBlockSignals
+Návìstidlo úseku s více zastávkami
+Minimum80
+Minimální rychlost 80 km/h
+NoAirEntry
+Zákaz vjezdu
+NoEntry
+Zákaz vjezdu
+preSignals
+Návìstidlo vlakové cesty
+preSignalsMonorail
+Návìstidlo vlakové cesty
+RailClose
+Tra» uzavøena
+Signals
+Návìstidlo tra»ového bloku
+SignalsMonorail
+Návìstidlo tra»ového bloku
+traffic_light
+Semafory
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+Ahorn-2
+Javor
+Birke-1
+bøíza\n
+Latschenkiefer
+Horská borovice\n
+Palmtree1
+Palma\n
+Tree4
+Borovice\n
+Tree5
+Tree5\n
+Tree6
+Jedle\n
+Willow
+vrba\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+FastRailTunnel
+Vysokorychlostní ¾eleznièní tunel
+FastRoadTunnel
+Vysokorychlostní silnièní tunel
+RailTunnel
+®eleznièní Tunel
+RoadTunnel
+Silnièní tunel
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Bennhardt BR103
+1Ben140
+Bennhardt BR140
+1Dampflokomotive
+H-Trans 0-4-0T
+1Diesellokomotive
+H-Trans BR212
+1Ellok
+H-Trans BR103
+1Garrat
+RVg Garratt
+1TPEllok
+TPI F7A
+2Ben155
+Bennhardt BR155
+2Diesellokomotive
+H-Trans BR218
+2Ellok
+H-Trans Tigress I
+2Garrat
+RVg Garratt (støed)
+3Ben185
+Bennhardt BR185
+3Diesellokomotive
+H-Trans BR365
+3Garrat
+RVg Garratt (konec)
+707
+Boeing 707
+A3-5
+A 3/5 (©výcarské federální dráhy)
+A380
+Airbus A380 - 'SuperJambo'
+AdlerPersonenwagen
+Adler - osobní vagón
+Autotransportanhaenger
+H-Trans pøívìs na auta
+Autotransporter
+H-Trans nákladní vùz na auta
+Autotransportwagen
+TPI Lopomo vagón na auta
+Boxcar
+Vagón na kusové zbo¾í
+BR38-Tender
+Tendr BR38
+BR45-Tender
+Tendr BR45
+Bretteranhaenger
+WF Ultd. pøívìs na prkna
+Brettertransporter
+WF Ultd. nákl. auto na prkna
+Bretterwagen
+VT-V nákladní vagón na prkna
+Buchanhaenger
+S/H-T pøívìs na kusové zbo¾í
+Buchtrailer
+Pøívìs na kusové zbo¾í I.
+Buchtrailer2
+Pøívìs na kusové zbo¾í II
+Buchtransporter
+S/H-T dodávka na kusové zbo¾í
+Buchwagen
+VT-V nákl. vagón na kusové zbo¾í
+Bus
+H-Trans Autobus
+Cargosprinter-Front
+CargoSprinter - pøední vùz
+Cargosprinter-Mittel
+CargoSprinter - vagón
+Cargosprinter-Steuer
+CargoSprinter - zadní vùz
+Cementtrailer
+Pøívìs na cement
+Comet
+De Havilland 'Kometa'
+Cooling_Container
+Chladící pøívìs
+Cooling_Truck
+Mrazící auto
+Cooling_Waggon
+Nákladní mrazící vagón
+DC-3
+Dacota DC-3
+Doubledeck_city_bus
+Dvoupatrový mìstský autobus
+EinheitsTender
+tendr
+Erzanhaenger
+H-Trans pøívìs na sypké zbo¾í
+Erztransporter
+H-T nákladní auto na sypké zbo¾í
+Erzwagen
+H-Trans nákl. vagón na sypké zbo¾í
+FastFerry
+O.Bang Fast Ferry vzná¹edlo
+Fishing_Boat
+Rybáøská loï
+H-Trans-Tiger-Car
+H-Trans Tigress osobní vagón
+H-Trans-Tiger-Mail-Car
+H-Trans Tigress po¹tovní vùz
+Hadley-Page-V1500
+RVg Hadley-Page V1500
+Heavy_ore_truck
+Tì¾ký sklápìè
+Holzanhaenger
+JET pøívìs na døevo
+Holztransporter
+H-Trans nákladní auto na døevo
+Holzwagen
+H-Trans nákladní vagón na døevo
+Horsebookscariage
+Vozík na kusové zbo¾í
+Horsepapercariage
+Vozík na papír
+Horsepassengerscariage
+Koèár
+Horses
+Koòské spøe¾ení
+Horsewoodcariage
+Vozík na døevo
+HVPosttransporter
+DIBU/H-Trans po¹tovní dodávka
+JumboJet
+Boeing 747 'Jumbo Jet'
+Kohleanhaenger
+H-Trans pøívìs na sypké zbo¾í
+Kohletransporter
+H-T nákladní auto na sypké zbo¾í
+Kohlewagen
+H-Trans nákl. vagón na sypké zbo¾í
+Kunststofanhaenger
+H-Trans pøívìs na plasty
+Kunststofftransporter
+H-Trans nákladní auto na plasty
+logs
+Vleèené klády
+Lowa
+Tramvaj Lowa
+Lowa_Anhaenger
+Tramvaj Lowa (vleèòák)
+Milk_Truck
+Cisterna na mléko
+Milk_Waggon
+Nákladní vagón na mléko
+Moebelschiff
+Loï na kusové zbo¾í
+Moebelwagen
+VT-V nákl. vagón na kusové zbo¾í
+NeuOelwagen
+Cisterna na ropu/benzín (80m2)
+Oelanhaenger
+H-T pøípojná cist. na ropu/benzín
+Oelwagen
+VT Vienna cisterna na ropu/benzín
+Oilbarge
+Nákladní èlun na ropu
+Oiltrailer
+Pøívìsná cisterna na ropu
+OldOil
+Cisterna na ropu/benzín (18m2)
+Papieranhaenger
+TRK pøívìs na papír
+Papiertransporter
+Trikky nákladní auto na papír
+Papierwagen
+VT Vienna nákladní vagón na papír
+Passagierwagen
+H-Trans osobní vagón
+Pferdebahn
+Koòské spøe¾ení
+Postschiff
+Po¹tovní loï
+Posttransporter
+H-Trans po¹tovní dodávka
+Postwagen
+H-Trans Po¹tovní/Zavazadlový vùz
+RenaultTH5
+Renault TH5
+Sandanhaenger
+WF Ultd. pøívìs na sypké zbo¾í
+Sandtransporter
+WF Ultd. nákl. auto na sypké zbo¾í
+schooner
+Osobní ¹kuner
+SlowFerry
+H-Trans osobní trajekt
+Stahlanhaenger
+H-Trans pøívìs na ocel
+Stahltransporter
+H-Trans nákladní auto na ocel
+Stahlwagen
+VT Vienna nákladní vagón na ocel
+Staubkesselwagen
+VT Vienna nákl. vagón na plasty
+Stoneanhaenger
+WF Ultd. pøívìs na sypké zbo¾í
+Stonetransporter
+WF Ultd. nákl. auto na sypké zbo¾í
+Tanklastzug
+H-Trans cisterna na ropu/benzín
+Tatra-T4
+Tatra T4
+Tatra-T4_Wagon
+Tatra T4 (vleèòák)
+TPBeiwagen
+TPI VT98 osobní vagón
+TPPassagierwagen
+TPI osobní vagón
+TPSchienenbus
+TPI VT98
+Tram_GT6_Ende
+GT6 zadní vùz
+Tram_GT6_Kopf
+GT6 pøední vùz
+Tugboat
+remorkér
+VolvoFH12
+Volvo FH12
+XMail
+Vùz jednokolejky pro pøepravu po¹ty
+XTest
+Vùz jednokolejky
+Zeppelin
+Hindenburg
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Asfaltová silnice
+city_road
+Mìstská silnice
+cobblestone_road
+Dlá¾dìná silnice
+concrete_sleeper_track
+®el. tra» s betonovými pra¾ci
+dirt_road
+Blátivá cesta
+elevated_monorail
+Vysutá jednokolejka
+gavel_road
+©tìrková silnice
+Kanal
+Prùplav
+MaglevTrack
+Magnetická tra»
+MaglevTrackElevated
+Vysutá magnetická tra»
+mip_cobblestone_road
+Dlá¾dìná silnice 2
+monorail
+Jednokolejka
+Powerline
+Elektrické vedení
+Rillenschienen
+Tramvajová tra»
+river
+Splavná øeka
+river2
+Potok
+runway_grass
+Travnatá ranvej
+runway_modern
+Moderní ranvej
+steel_sleeper_track
+®el. tra» s ocelovými pra¾ci
+taxiway
+Pojí¾dìcí dráha
+wooden_sleeper_track
+®el. tra» s døevìnými pra¾ci
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+HighSpeedOverheadpower
+Vysokorychlostní trolej
+SlowOverheadpower
+Trolej pro nízké rychlosti

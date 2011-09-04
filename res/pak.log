@@ -1,0 +1,137 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./res.dat
+   writing file ./building.RES_02_01.pak
+      packing building.RES_02_01
+   writing file ./building.RES_00_01.pak
+      packing building.RES_00_01
+   writing file ./building.RES_01_01.pak
+      packing building.RES_01_01
+   writing file ./building.RES_10_01.pak
+      packing building.RES_10_01
+   writing file ./building.RES_11_01.pak
+      packing building.RES_11_01
+   writing file ./building.RES_00_02.pak
+      packing building.RES_00_02
+   writing file ./building.RES_01_02.pak
+      packing building.RES_01_02
+   writing file ./building.RES_10_02.pak
+      packing building.RES_10_02
+   writing file ./building.RES_11_02.pak
+      packing building.RES_11_02
+   writing file ./building.RES_12_03.pak
+      packing building.RES_12_03
+   writing file ./building.RES_00_03.pak
+      packing building.RES_00_03
+   writing file ./building.RES_10_03.pak
+      packing building.RES_10_03
+   writing file ./building.RES_11_03.pak
+      packing building.RES_11_03
+   writing file ./building.RES_00_04.pak
+      packing building.RES_00_04
+   writing file ./building.RES_10_04.pak
+      packing building.RES_10_04
+   writing file ./building.RES_11_04.pak
+      packing building.RES_11_04
+   writing file ./building.RES_12_05.pak
+      packing building.RES_12_05
+   writing file ./building.RES_01_05.pak
+      packing building.RES_01_05
+   writing file ./building.RES_10_05.pak
+      packing building.RES_10_05
+   writing file ./building.RES_00_06.pak
+      packing building.RES_00_06
+   writing file ./building.RES_12_07.pak
+      packing building.RES_12_07
+   writing file ./building.RES_00_07.pak
+      packing building.RES_00_07
+   writing file ./building.RES_01_07.pak
+      packing building.RES_01_07
+   writing file ./building.RES_02_07.pak
+      packing building.RES_02_07
+   writing file ./building.RES_12_08.pak
+      packing building.RES_12_08
+   writing file ./building.RES_00_08.pak
+      packing building.RES_00_08
+   writing file ./building.RES_01_08.pak
+      packing building.RES_01_08
+   writing file ./building.RES_10_08.pak
+      packing building.RES_10_08
+   writing file ./building.RES_11_08.pak
+      packing building.RES_11_08
+   writing file ./building.RES_00_09.pak
+      packing building.RES_00_09
+   writing file ./building.RES_01_09.pak
+      packing building.RES_01_09
+   writing file ./building.RES_12_10.pak
+      packing building.RES_12_10
+   writing file ./building.RES_00_10.pak
+      packing building.RES_00_10
+   writing file ./building.RES_01_10.pak
+      packing building.RES_01_10
+   writing file ./building.RES_10_10.pak
+      packing building.RES_10_10
+   writing file ./building.RES_00_11.pak
+      packing building.RES_00_11
+   writing file ./building.RES_10_11.pak
+      packing building.RES_10_11
+   writing file ./building.RES_12_11.pak
+      packing building.RES_12_11
+   writing file ./building.RES_00_12.pak
+      packing building.RES_00_12
+   writing file ./building.RES_01_12.pak
+      packing building.RES_01_12
+   writing file ./building.RES_10_12.pak
+      packing building.RES_10_12
+   writing file ./building.RES_11_12.pak
+      packing building.RES_11_12
+   writing file ./building.RES_12_12.pak
+      packing building.RES_12_12
+   writing file ./building.RES_00_13.pak
+      packing building.RES_00_13
+   writing file ./building.RES_10_13.pak
+      packing building.RES_10_13
+   writing file ./building.RES_11_13.pak
+      packing building.RES_11_13
+   writing file ./building.RES_10_14.pak
+      packing building.RES_10_14
+   writing file ./building.RES_11_14.pak
+      packing building.RES_11_14
+   writing file ./building.RES_01_15.pak
+      packing building.RES_01_15
+   writing file ./building.RES_10_15.pak
+      packing building.RES_10_15
+   writing file ./building.RES_12_15.pak
+      packing building.RES_12_15
+   writing file ./building.RES_00_16.pak
+      packing building.RES_00_16
+   writing file ./building.RES_01_16.pak
+      packing building.RES_01_16
+   writing file ./building.RES_02_16.pak
+      packing building.RES_02_16
+   writing file ./building.RES_00_17.pak
+      packing building.RES_00_17
+   writing file ./building.RES_01_17.pak
+      packing building.RES_01_17
+   writing file ./building.RES_00_18.pak
+      packing building.RES_00_18
+   writing file ./building.RES_01_18.pak
+      packing building.RES_01_18
+   writing file ./building.RES_00_19.pak
+      packing building.RES_00_19
+   writing file ./building.RES_02_20.pak
+      packing building.RES_02_20
+   writing file ./building.RES_00_21.pak
+      packing building.RES_00_21
+   writing file ./building.RES_01_21.pak
+      packing building.RES_01_21
+   writing file ./building.RES_01_22.pak
+      packing building.RES_01_22
+   writing file ./building.RES_00_23.pak
+      packing building.RES_00_23
+   writing file ./building.RES_01_23.pak
+      packing building.RES_01_23

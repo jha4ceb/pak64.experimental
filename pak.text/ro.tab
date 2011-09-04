@@ -1,0 +1,436 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                                Scenario: pak64                               #
+#                              Language: ro Romana                             #
+#                             Encoding: ISO-8859-2                             #
+#                            Font : prop-latin2.fnt                            #
+#                            Date Created: 9.09 2010                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                   - CDAndrei                                 #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                         N. Ifteni - emaxectranspoorte                        #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Pod feroviar din beton
+ClassicRoad
+Pod din beton
+SteelRail
+Pod feroviar din o?el
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+01_CITY
+Prim?rie
+A1_ALTE_KIRCHE
+Biserica veche\n
+A2_SCHLOSS1
+Castelul Regelui Nebun\nAtrac?ie turistic?. Merit?\nvizitat.\n
+A3_BURG1
+Mândria ora?ului :-)\n
+A4_SCHLOSS2
+Izvorul Palatului\n
+A5_STONEHENGE
+Menhir\n
+A6_DOME
+Cathedral? gothic?\n
+COM_00_01
+Mic ABC\n
+COM_00_02
+Benzinãrie independentã\nEste independentã de marile\ncompanii de transport\n(cum ar fi a ta), dar nu e nevoie\nsã o distrugi. Nu î?i va fura\nafacerea.\n\n
+COM_00_03
+Micul atelier de repara?ii auto\nvrea sa iasã din aceastã afacere\ndubioasã si sã deschidã un showroom.\nDar lipsa banilor\n, avizelor ?i \na unui loc mai bun îl impiedica.\n\n
+COM_00_05
+Bancã din viitor.\nE numitã a?a pentru ca\nnu trebuie sa intri în ea,\ndoar î?i sco?i portofelul\n?i îl arã?i automatului\ncare se ocupã de tranzac?ie.
+COM_00_06
+Cafenea\n
+COM_00_10
+Oficii cu parking\n
+COM_00_12
+Oficii\n
+COM_00_18
+Oficiu modern\n
+COM_01_01
+Centru Zeppelin\n
+COM_01_09
+Cinema\n
+DenkFlor
+Dedicat pt. Flor WF Ultd.\nWautersn, inginerul care a\nproiectat multe din\nvechicolele folosite în\nSimutrans.\n
+DenkOwen
+Acest monument este\ndedicat lui Owen Rudge,\nspecialis în finan?e.\n
+DenkSeth
+Memorial ridicat pt. Seth C.\nTriggs.\n
+DenkTomas
+Dedicat pt. Tomas Kubes\ngazda distribu?iei pak128.\n
+DenkTrikky
+Statuie ridicat? pt. Trikky'\nRick McGreal.\n
+DenkVM
+Dedicat pt. Manfred VT\nVienna'  Tomaschitz.\n
+DenkVolker
+Aceast? cl?dire a fost\nconstruit? de c?tre Volker\nMeyer.\n
+FreightTrainStop
+Sta?ie marfar
+IND_00_01
+Magazin depozit\n
+IND_00_02
+Barac?\n
+IND_00_03
+Magazin depozit carburan?i\n
+IND_00_04
+O?el?rie\n
+IND_00_05
+Cistren? ap?\n
+IND_00_06
+\mFabric?\n
+IND_00_09
+Uzin? ciment\n
+IND_00_10
+Hal?\n
+IND_00_12
+Interpriderea de utilaje\n
+IND_00_14
+Optica\n
+IND_00_16
+Fabric? de materiale\nfotosensibile\n
+IND_01_01
+Parcare cu tax?\n
+IND_01_03
+Cistern? carburan?i\n
+IND_01_07
+Transformator\n
+IND_01_08
+Fabrica de îngr???minte\nchimice\n
+IND_01_09
+Rezervor de ap?\n
+IND_01_10
+Fabric? de unelte\n
+RES_00_06
+Mic duplex\n
+RES_00_07
+\Cas? mijlocie\n
+RES_00_09
+Hele?teu\n
+RES_00_11
+Intravilant cu gr?din?\n
+RES_00_13
+Duplex cu gr?din?\n
+RES_00_16
+Vil? interbelic?\n
+RES_01_01
+Cas? cu gr?din?\n
+RES_01_02
+Cas? din lemn\n
+RES_01_07
+Vile luxoase\n
+RES_01_10
+Cas? modern?\n
+RUIN_0
+Ruine din evul mediu\n
+STADIUM2
+Stadion pt. rugbi\n
+Tennis_Court
+Aren? tenis\n
+Theatre
+Teatru\n
+Windmill
+Moar? de vânt\n
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+factory_Cementmill_details
+Uzin? ciment
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+2Raffinerie
+Rafin?rie
+Autohaus
+Salon auto
+Autohersteller
+Uzin? de automobile
+Buchgrosshandel
+Depozit en-gros c?r?i
+Cementmill
+Uzin? ciment
+CHEMIST
+Fabric? de chimicale
+Concretefactory
+Uzin? beton
+Druckerei
+Tipografie
+Erzbergwerk
+Min? minereu de fier
+Kohlegrube
+Min? c?rbune
+Kohlekraftwerk
+Central? termic?
+Materialswholesale
+Curte de fier
+Moebelfabrik
+Fabric? de mobil?
+Moebelhaus
+Centru de magazine
+Nutzwald
+Pepinier?
+Oelbohrinsel
+Platform? petrol
+Oelfeld
+Câmpie petrolifer?
+Papierfabrik
+Fabric? de hârtie
+Pharmaceutics
+Fabrica de produse farmaceutice
+Raffinerie
+Rafin?rie
+Saegewerk
+Gater
+Sandquarry
+Min? nisip
+Stahlwerk
+Uzin? metalurgic?
+Stonequarry
+Min? piatr?
+TANKE
+Benzin?rie
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+Autos
+automobile
+beer
+bere
+Bretter
+scândur?
+Buecher
+c?r?i
+canned_food
+conserve
+Cement
+ciment
+Chemicals
+chimicale
+Concrete
+beton
+Eisenerz
+fier
+food
+alimente
+Gasoline
+carburant
+grain
+grâne
+Holz
+bustean
+Kohle
+c?rbune
+meat
+carne
+Medicine
+Medicamente
+milk
+lapte
+Moebel
+mobil?
+None
+nimic
+Oel
+petrol
+Papier
+hârtie
+Plastik
+material plast.
+PrintersInk
+Vopsele tipografice
+Sand
+nisip
+Stahl
+o?el
+Stone
+piatr?
+#__________________________________ground_obj___________________________________
+#__________________________________ground_obj___________________________________
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+Latschenkiefer
+Pin\n
+Tree4
+Ulm\n
+Tree5
+Pin\n
+Tree6
+Brad\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+0Ben103
+Locomotiva Bennhardt B-103
+1Ben140
+Locomotiva Bennhardt B-140 "Limet"
+1Dampflokomotive
+Locomotiva H-Trans 0-4-0T "Hello"
+1Diesellokomotive
+Locomotiva H-Trans BR212
+1Ellok
+Locomotiva H-Trans BR103
+1TPEllok
+Locomotiva TPI F7A
+2Ben155
+Locomotiva Bennhardt B-155
+2Diesellokomotive
+Locomotiva H-Trans BR218
+2Ellok
+LocomotivaH-Trans-Pantheress
+3Ben185
+Locomotiva Bennhardt B-185 "Santa"
+3Diesellokomotive
+Locomotiva Canonball-WF 365
+Autotransportanhaenger
+Remorc? transport auto
+Autotransporter
+Ma?in? de transport auto
+Autotransportwagen
+Vagon pt. automobile tip Canonball-B
+Bretteranhaenger
+Remorc? pt. transport scândur?
+Brettertransporter
+Ma?in? pt. transport scândur?
+Bretterwagen
+Vagon pt. scânduri tip B
+Buchanhaenger
+Remorc? pt. transport c?r?i
+Buchtransporter
+Ma?in? pt. transport c?r?i
+Buchwagen
+Vagon pt. transport c?r?i
+Bus
+Autobus
+Cooling_Waggon
+Vagon frigorific
+Erzanhaenger
+Remorc? pt. transport minereu de fier
+Erztransporter
+Ma?in? pt. transport minereu de fier
+Erzwagen
+Vagon material prim tip PH-B (nisip/c?rbune/piatr?/fier)
+FastFerry
+Feribot cu pern? de aer
+H-Trans-Tiger-Car
+Automotor H-Trans Tigress (centru)
+H-Trans-Tiger-Mail-Car
+Automotor po?t? H-Trans Tigress (centru)
+H-Trans-Tigress-II-Back
+Automotor H-Trans Tigress II (spate)
+H-Trans-Tigress-II-Front
+Automotor H-Trans Tigress II (front)
+Holzanhaenger
+Remorc? pt. transport bu?teni
+Holztransporter
+Ma?in? pt. transport bu?teni
+Holzwagen
+Vagon pt. bu?teni tip C
+Horsebookscariage
+C?ru?? pt. transport c?r?i
+Horsepapercariage
+C?ru?? pt. transport hârtie
+Horsepassengerscariage
+C?ru?? pt. transport persoane
+Horses
+Cai
+Horsewoodcariage
+C?ru?? pt. transport busteni
+HVPosttransporter
+Ma?in? ot. transport po?t?
+Kohleanhaenger
+Remorc? pt. transport c?rbune
+Kohletransporter
+Ma?in? pt. transport c?rbune
+Kohlewagen
+Vagon material prim tip Canonball-A (nisip/c?rbune/piatr?/fi
+Kunststofanhaenger
+Remorc? pt. transport material plastic
+Kunststofftransporter
+Ma?in? pt. transport material plastic
+Moebelschiff
+Tanc?r pt. transport mobil?
+Moebelwagen
+Vagon pt. transport mobil?
+Oelanhaenger
+Remorc? pt. transport carburan?i
+Oelwagen
+Vagon cistern? pt. petrol/carburan?i tip Shorty-MAVA
+Papieranhaenger
+Remorc? pt. transport hârtie
+Papiertransporter
+Ma?in? pt. transport hârtie
+Papierwagen
+Vagon pt. hârtie tip PMNV Bed
+Passagierwagen
+Vagon pasageri tip Canonball BTx 60
+Postschiff
+Nav? po?t?
+Posttransporter
+Remorc? po?t?
+Postwagen
+Vagon po?t? tip Canonball
+Sandanhaenger
+Remorc? pt. transport material prim(nispi/c?rbune/piatr?/fie
+Sandtransporter
+Ma?in? pt. transport material prim(nispi/c?rbune/piatr?/fier
+SlowFerry
+Feribot H-Trans
+Stahlanhaenger
+Remorc? pt. transport o?el
+Stahltransporter
+Ma?in? pt. transport o?el
+Stahlwagen
+Vagon o?el tip Canonball Bed
+Staubkesselwagen
+Vagon materiale plastice
+Stoneanhaenger
+Remorc? pt. transport piatr?
+Stonetransporter
+Ma?in? pt. transport piatr?
+Tanklastzug
+Ma?in? pt. transport carburan?i
+TPBeiwagen
+Vagon transport persoane tip TPI VT98
+TPPassagierwagen
+Vagon transport persoane
+TPSchienenbus
+Locomotiva TPI VT98
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Drum asfaltat
+city_road
+Drum or???nesc
+cobblestone_road
+Drum pavat cu calup
+concrete_sleeper_track
+Linie ferat? cu travers? din beton
+dirt_road
+Drum de ?ar?
+gavel_road
+Drum din prundi?
+mip_cobblestone_road
+Drum pavat cu calup tip MIP
+steel_sleeper_track
+Linie ferat? cu travers? din o?el
+wooden_sleeper_track
+Linie ferat? cu travers? din lemn
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
