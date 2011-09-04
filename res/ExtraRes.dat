@@ -80,6 +80,7 @@ intro_year=1997
 retire_year=2040
 climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
 Dims=1,1,2
-backimage[0][0][0][1][0]=com_06_43.1.0
-backimage[0][0][0][0][0]=com_06_43.2.0
+
+backimage[0][0][0][1][0][0]=com_06_43.1.0
+backimage[0][0][0][0][0][0]=com_06_43.2.0
 
