@@ -1,5 +1,4 @@
-This is the simutrans source code for pak64.
-(c) since 2004 The Simutrans Team
+This is pak64.experimental. Since 2004 The Simutrans Team
 
 Simutrans source code is provided by the current simutrans team
 (team64@simutrans.com) as copyright holder under the artistic licence.
