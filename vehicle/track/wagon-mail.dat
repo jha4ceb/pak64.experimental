@@ -20,6 +20,7 @@ years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
 
+loading_time=18000
 
 EmptyImage[S]=veh-mail.0.0
 EmptyImage[W]=veh-mail.0.1
@@ -48,6 +49,7 @@ increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
+loading_time=18000
 
 EmptyImage[S]=veh-mail.1.0
 EmptyImage[W]=veh-mail.1.1
@@ -72,6 +74,7 @@ years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
 
+loading_time=18000
 
 EmptyImage[S]=veh-mail.2.0
 EmptyImage[W]=veh-mail.2.1
@@ -95,6 +98,7 @@ increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
+loading_time=18000
 
 
 EmptyImage[S]=veh-mail.3.0
@@ -125,6 +129,7 @@ increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
+loading_time=18000
 
 EmptyImage[S]=veh-mail.4.0
 EmptyImage[W]=veh-mail.4.1
