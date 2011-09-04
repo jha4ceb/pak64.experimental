@@ -1,0 +1,44 @@
+#-------------------------------------------------------------------------------
+#   MAVV43.dat
+#   JR East DC Series 120
+#Å@ CopyLeft 2011 Shiosai Industry  #--------------------------------------------------------------------------
+
+obj=vehicle
+
+name=MAV V43
+copyright=CarlBaker
+waytype=track
+
+intro_year=1963
+retire_year=2011
+engine_type=electric
+speed=130
+
+power=2900
+cost=470000
+Length=9
+weight=80
+RunningCost=400
+Sound=2
+
+
+fixed_maintenance=250
+increase_maintenance_after_years=20
+years_before_maintenance_max_reached=30
+increase_maintenance_by_percent=400
+
+EmptyImage[S]=MAVV43.0.0
+
+EmptyImage[E]=MAVV43.0.1
+
+EmptyImage[SE]=MAVV43.0.2
+
+EmptyImage[SW]=MAVV43.0.3
+
+EmptyImage[N]=MAVV43.0.4
+
+EmptyImage[W]=MAVV43.0.5
+
+EmptyImage[NW]=MAVV43.0.6
+
+EmptyImage[NE]=MAVV43.0.7

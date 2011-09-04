@@ -1,0 +1,107 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+Image size is set to 64x64
+writing invidual files to ./
+   reading file ./planes-raven.dat
+   writing file ./vehicle.Zeppelin.pak
+      packing vehicle.Zeppelin
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.DC-3.pak
+      packing vehicle.DC-3
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.Hadley-Page-V1500.pak
+      packing vehicle.Hadley-Page-V1500
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.Ju52.pak
+      packing vehicle.Ju52
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.SuperConstellation.pak
+      packing vehicle.SuperConstellation
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.Comet.pak
+      packing vehicle.Comet
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.JumboJet.pak
+      packing vehicle.JumboJet
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.707.pak
+      packing vehicle.707
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.A380.pak
+      packing vehicle.A380
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.Concorde.pak
+      packing vehicle.Concorde
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
+   writing file ./vehicle.Guppy.pak
+      packing vehicle.Guppy
+Reading freightimage[0][s]
+Reading freightimage[0][s][0]
+Reading emptyimage[s][0]
+Reading freightimage[s][0]
+Reading freightimage[s]
+Writing 8 single livery empty images
+Writing 0 non-images
