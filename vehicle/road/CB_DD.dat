@@ -23,8 +23,8 @@ gear=100
 weight=7
 cost=1880000
 
-runningcost=120
-fixed_maintenance=6500
+runningcost=203
+fixed_maintenance=6600
 intro_year=1951
 
 intro_month=11

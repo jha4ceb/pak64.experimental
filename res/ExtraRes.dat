@@ -40,6 +40,8 @@ climates=desert,mediterran,tropic,temperate,tundra
 Dims=1,1,2
 backimage[0][0][0][1][0]=res_01_50.1.0
 backimage[0][0][0][0][0]=res_01_50.2.0
+backimage[1][0][0][1][0]=res_01_50.1.1
+backimage[1][0][0][0][0]=res_01_50.2.1
 
 -------------
 

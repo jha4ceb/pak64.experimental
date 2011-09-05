@@ -12,11 +12,12 @@ speed=180
 
 payload=75
 overcrowded_capacity=25
-cost=680000
+cost=1200000
 weight=22
 comfort=150
 fixed_maintenance=8000
 RunningCost=600
+length=8
 catering_level=4
 Sound=2
 
