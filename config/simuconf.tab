@@ -12,35 +12,200 @@
 #
 # Due to this location inside a pak folder, we will only touch the pak dependent values!
 #
+
+
+
+
 ##################################industry stuff#################################
 
-# the weight based routing works nicely
-city_short_range_percentage = 0
-city_medium_range_percentage = 0
+
 
 # passenger generation (default is 16) Smaller values means less passengers
 passenger_factor=16
 
+
 # in beginner mode, all good prices are multiplied by a factor (default 1500=1.5)
 beginner_price_factor = 1500
 
+
 # allow all possible supplier to connect to your factories?
+
 # This will also affect savegames!
-# best to leave it in default position. (only on for simuTTD)
+
+# best to leave it in default position. 
+
 crossconnect_factories = 0
 
+
+
 # how much is the total electric power available in releation to total production) in parts per thousand
+
+
 electric_promille = 330
 
+
+
 # how big is the chance for crossconnections in percent
+
 # (100% will give nearly the same results as crossconnect_factories=1)
+
+
 crossconnect_factories_percentage = 33
+
+
+cities_like_water=30
 
 # with this switch on (default), overcrowded factories will not recieve goods any more
 just_in_time = 1
 
 # use beginner mode for new maps (can be switched anyway on the new map dialog)
 first_beginner = 0
+
+show_month=1
+bits_per_month=20
+distance_per_tile=31
+
+
+growthfactor_villages = 915
+growthfactor_cities = 625
+growthfactor_capitals = 375
+
+station_coverage=3
+
+starting_month = 10
+
+max_alternative_destinations = 6
+
+
+
+factory_worker_percentage = 15
+tourist_percentage = 8
+
+
+local_passengers_min_distance = 5
+local_passengers_max_distance = 40
+midrange_passengers_min_distance = 30
+midrange_passengers_max_distance = 140
+longdistance_passengers_min_distance = 100
+longdistance_passengers_max_distance = 16384
+
+min_bonus_max_distance = 4
+median_bonus_distance = 250
+max_bonus_min_distance = 400
+max_bonus_multiplier_percent = 300
+
+
+
+# These next settings affect the interaction between comfort and revenue in Simutrans. Comfort only
+# affects passenger traffic, for obvious reasons. Passengers have a certain level of comfort that
+# they will tolerate for certain distances. All comfort ratings are in the range of between 0 and
+# 255. At the tolerable level, the revnue is unaffected. At above the tolerable level, a luxury
+# bonus is applied. At below the tolerable level, a discomfort penalty is applied. The values can
+# be set to anything, but, to reflect real life, it is suggested that the discomfort penalty is
+# significantly higher than the luxury bonus. 
+#
+# tolerable_comfort_short is the tolerable comfort rating of a vehicle (0 - 255) for a journey of no
+# more than tolerable_comfort_short_minutes.
+#
+# tolerable_comfort_median_short is the tolerable comfort rating of a vehicle for a journey of no more
+# than tolerable_comfort_median_short minutes.
+#
+# tolerable_comfort_median_median is the tolerable comfort rating of a vehicle for a journey of no more
+# than tolerable_comfort_median_median minutes.
+#
+# tolerable_comfort_median_long is the tolerable comfort rating of a vehicle for a journey of no more
+# than tolerable_comfort_median_long minutes.
+#
+# tolerable_comfort_long is the tolerable comfort rating of a vehicle for a journey of at least
+# tolerable_comfort_long minutes.
+#
+# For any journeys of a time between any of the values, a scaled proportion is taken. 
+# 
+# Note that (versions 7.2 onwards), the impact of comfort on revenue decreases with journey time.
+# It is at its maximum level down to tolerable_comfort_median_long_minutes, after which it gradually
+# reduces to 20% of its maximum at tolerable_comfort_short_minutes, and does not decrease further
+# thereafter. 
+
+tolerable_comfort_short_minutes=2
+tolerable_comfort_short=15
+
+tolerable_comfort_median_short_minutes=30
+tolerable_comfort_median_short=60
+
+#Two hours
+tolerable_comfort_median_median_minutes=120
+tolerable_comfort_median_median=80
+
+#Five hours
+tolerable_comfort_median_long_minutes=300
+tolerable_comfort_median_long=120
+
+
+#12 hours
+tolerable_comfort_long_minutes=720
+tolerable_comfort_long=150
+
+
+# max_luxury_bonus_differential is the maximum number of comfort rating points above the tolerable level
+# that affects the luxury bonus. Anything beyond that, and further added luxury makes no difference to the
+# revenue.
+#
+# max_luxury_bonus_percent is the percentage increase in revenue from the maximum level of luxury specified in
+# max_luxury_bonus_differential. So, if the tolerable comfort level for any given travelling time was 100, the 
+# max_luxury_bonus_differential 50, and the max_luxury_bonus_percent 50, then the revenue would increase up to
+# 50% beyond the normal revenue for additional comfort up to 150, but would not increase further with any increase
+# in comfort beyond 150. 
+
+max_luxury_bonus_differential=55
+max_luxury_bonus_percent=45
+
+
+# These settings control the revenue that can be earned from catering and travelling post offices. Note that catering
+# vehicles on a convoy also increase the comfort by a small amount, which has an indirect effect on the revenue. These
+# settings do not affect that: these settings affect the revenue earned from the catering itself: i.e., by selling food
+# and drink. 
+#
+# catering_min_minutes is the shortest journey time that will provide any catering revenue. Anything below that, and 
+# passengers will not bother to buy any food or drink at all. 
+#
+# catering_level1_minutes is the journey time at which any convoy with a catering level of 1 or higher will earn, per
+# passenger, the number of Simu-cents (1/100th of a Simucredit) specified in catering_level1_max_revenue. 
+# 
+# The same applies for each subsequent catering level: in other words, higher catering levels only earn more than lower
+# catering levels on journeys of at least the catering_levelX_minutes (where X is the catering level in question).
+#
+# Between each level, the a scaled proportion is applied. So, for example, if catering_min_minutes is 100, 
+# catering_level1_minutes is 200, and the actual journey time is 150 minutes, then, any convoy with a catering level 
+# of at least 1 will earn 50% of the amount specified in catering_level1_max_revenue per passenger. 
+
+catering_min_minutes=60
+catering_level1_minutes=90
+catering_level1_max_revenue=150
+catering_level2_minutes=120
+catering_level2_max_revenue=250
+catering_level3_minutes=150
+catering_level3_max_revenue=350
+catering_level4_minutes=240
+catering_level4_max_revenue=400
+catering_level5_minutes=300
+catering_level5_max_revenue=475
+
+
+
+
+# The following settings determine the minimum and maximum number of towns in which
+# workers in industries live (and thus from which they need to be transported to
+# the industries in question). 
+
+factory_worker_minimum_towns = 3
+factory_worker_maximum_towns = 8
+
+
+# The maximum distance in tiles from which workers at industries may travel.
+factory_worker_radius = 128
+
+
+
 
 ###################################display stuff##################################
 
@@ -57,6 +222,10 @@ water_animation_ms = 250
 # how long is a diagonal (512: faktor 2=1024/512, old way, 724: sqrt(2)=1024/724
 # THIS WILL BE ONLY USED, WHEN THIS FILE IS IN THE pakxyz/config!
 diagonal_multiplier = 724
+
+
+
+
 
 ###################################money stuff##################################
 
@@ -103,6 +272,9 @@ cost_multiply_remove_field=5000
 way_max_bridge_len = 4095
 
 
+
+
+
 ###################################time stuff###################################
 
 # Starting year of the game:
@@ -112,7 +284,9 @@ way_max_bridge_len = 4095
 #
 # other recommended vaule for 64 is 1956
 #
-starting_year = 1930
+starting_year = 1956
+
+
 
 ##################################forest stuff#################################
 #  please be careful in changing them, I spent lot of time finding optimals.
@@ -140,10 +314,13 @@ tree_climates = 4
 # climates with no trees at all (desert and arctic at the moment)
 no_tree_climates = 130
 
+
+
+
 ###################################other stuff##################################
 
 # how far cities should be minimum apart (default 16)
-minimum_city_distance = 32
+minimum_city_distance = 10
 
 # at which number of inhabitants we need a new market?
 industry_increase_every = 2000
@@ -182,4 +359,5 @@ river_min_length = 20
 
 # river max length (not too long?)
 river_max_length = 512
+
 

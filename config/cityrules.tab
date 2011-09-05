@@ -9,10 +9,10 @@
 
 
 # chance for renovation versus new building (bigger number => less sprawling)
-renovation_percentage = 12
+renovation_percentage = 99
 
 # citys will not growth further along exiting roads, if the buildings density is lower (in percent)
-minimum_building_density = 33
+minimum_building_density = 44
 
 #
 # relative affinities for certain building types which can lead to clustering of certain building types
