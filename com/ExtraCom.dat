@@ -1,0 +1,29 @@
+# Modified by Carl Baker for pak64.experimental
+# Based on open source material from Pak128.
+
+obj=building
+name=COM_01_21_01
+copyright=Propermike
+type=com
+level=11
+intro_year=1994
+retire_year=2999
+chance=45
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+backimage[0][0][0][0][0]=com_01_21.1.0
+
+----
+
+obj=building
+name=COM_06_04
+copyright=MHz
+type=com
+level=2
+chance=70
+intro_year=1979
+retire_year=2999
+climates=mediterran,temperate,tundra,rocky
+backimage[0][0][0][0][0]=com_06_04.1.0
+
+
+

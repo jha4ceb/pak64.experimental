@@ -1,0 +1,103 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./com.dat
+   writing file ./building.COM_00_01.pak
+      packing building.COM_00_01
+   writing file ./building.COM_01_01.pak
+      packing building.COM_01_01
+   writing file ./building.COM_10_01.pak
+      packing building.COM_10_01
+   writing file ./building.COM_00_02.pak
+      packing building.COM_00_02
+   writing file ./building.COM_01_04.pak
+      packing building.COM_01_04
+   writing file ./building.COM_02_02.pak
+      packing building.COM_02_02
+   writing file ./building.COM_10_02.pak
+      packing building.COM_10_02
+   writing file ./building.COM_00_03.pak
+      packing building.COM_00_03
+   writing file ./building.COM_12_04.pak
+      packing building.COM_12_04
+   writing file ./building.COM_01_04.pak
+      packing building.COM_01_04
+   writing file ./building.COM_02_04.pak
+      packing building.COM_02_04
+   writing file ./building.COM_00_05.pak
+      packing building.COM_00_05
+   writing file ./building.COM_10_05.pak
+      packing building.COM_10_05
+   writing file ./building.COM_00_06.pak
+      packing building.COM_00_06
+   writing file ./building.COM_10_07.pak
+      packing building.COM_10_07
+   writing file ./building.COM_00_08.pak
+      packing building.COM_00_08
+   writing file ./building.COM_10_08.pak
+      packing building.COM_10_08
+   writing file ./building.COM_01_09.pak
+      packing building.COM_01_09
+   writing file ./building.COM_00_10.pak
+      packing building.COM_00_10
+   writing file ./building.COM_01_10.pak
+      packing building.COM_01_10
+   writing file ./building.COM_10_10.pak
+      packing building.COM_10_10
+   writing file ./building.COM_11_10.pak
+      packing building.COM_11_10
+   writing file ./building.COM_00_11.pak
+      packing building.COM_00_11
+   writing file ./building.COM_10_11.pak
+      packing building.COM_10_11
+   writing file ./building.COM_11_11.pak
+      packing building.COM_11_11
+   writing file ./building.COM_00_12.pak
+      packing building.COM_00_12
+   writing file ./building.COM_10_12.pak
+      packing building.COM_10_12
+   writing file ./building.COM_11_12.pak
+      packing building.COM_11_12
+   writing file ./building.COM_02_13.pak
+      packing building.COM_02_13
+   writing file ./building.COM_04_13.pak
+      packing building.COM_04_13
+   writing file ./building.COM_00_14.pak
+      packing building.COM_00_14
+   writing file ./building.COM_03_14.pak
+      packing building.COM_03_14
+   writing file ./building.COM_04_14.pak
+      packing building.COM_04_14
+   writing file ./building.COM_03_15.pak
+      packing building.COM_03_15
+   writing file ./building.COM_04_15.pak
+      packing building.COM_04_15
+   writing file ./building.COM_02_16.pak
+      packing building.COM_02_16
+   writing file ./building.COM_03_17.pak
+      packing building.COM_03_17
+   writing file ./building.COM_01_17.pak
+      packing building.COM_01_17
+   writing file ./building.COM_02_17.pak
+      packing building.COM_02_17
+   writing file ./building.COM_00_18.pak
+      packing building.COM_00_18
+   writing file ./building.COM_01_18.pak
+      packing building.COM_01_18
+   writing file ./building.COM_02_19.pak
+      packing building.COM_02_19
+   writing file ./building.COM_03_19.pak
+      packing building.COM_03_19
+   writing file ./building.COM_03_20.pak
+      packing building.COM_03_20
+   writing file ./building.COM_01_20.pak
+      packing building.COM_01_20
+   writing file ./building.COM_01_21.pak
+      packing building.COM_01_21
+   writing file ./building.COM_00_22.pak
+      packing building.COM_00_22
+   writing file ./building.COM_01_22.pak
+      packing building.COM_01_22
