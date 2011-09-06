@@ -27,3 +27,29 @@ writing invidual files to ./
       packing building.Feste
    writing file ./building.Residenz.pak
       packing building.Residenz
+   writing file ./building.RadioStation.pak
+      packing building.RadioStation
+   writing file ./building.OldOffice1.pak
+      packing building.OldOffice1
+   writing file ./building.OldOffice2.pak
+      packing building.OldOffice2
+   writing file ./building.Inn.pak
+      packing building.Inn
+   writing file ./building.CityGardens.pak
+      packing building.CityGardens
+   writing file ./building.CityPark.pak
+      packing building.CityPark
+   writing file ./building.Insurance.pak
+      packing building.Insurance
+   writing file ./building.Lawyer.pak
+      packing building.Lawyer
+   writing file ./building.CallCentre.pak
+      packing building.CallCentre
+   writing file ./building.Consultancy.pak
+      packing building.Consultancy
+   writing file ./building.SmallOffice.pak
+      packing building.SmallOffice
+   writing file ./building.Bank.pak
+      packing building.Bank
+   writing file ./building.Hotel.pak
+      packing building.Hotel

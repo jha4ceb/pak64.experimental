@@ -1,0 +1,27 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./monuments.dat
+   writing file ./building.DenkTrikky.pak
+      packing building.DenkTrikky
+   writing file ./building.DenkOwen.pak
+      packing building.DenkOwen
+   writing file ./building.DenkSeth.pak
+      packing building.DenkSeth
+   writing file ./building.DenkVM.pak
+      packing building.DenkVM
+   writing file ./building.DenkFlor.pak
+      packing building.DenkFlor
+   writing file ./building.DenkVolker.pak
+      packing building.DenkVolker
+   writing file ./building.DenkTomas.pak
+      packing building.DenkTomas
+   writing file ./building.DenkHajo.pak
+      packing building.DenkHajo
+   writing file ./building.DenkMHz.pak
+      packing building.DenkMHz
+   writing file ./building.DenkDirk.pak
+      packing building.DenkDirk
