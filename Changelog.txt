@@ -1,3 +1,5 @@
 0.1 released 5th September
 
 -- FIX: COM images
+-- ADD: Four new end-users for the food industry: butcher, fish market, public house and cornershop
+-- ADD: Two new end-users for paper industry: stationer and small bookshop

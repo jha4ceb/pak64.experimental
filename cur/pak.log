@@ -1,0 +1,29 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./cur-city.dat
+   writing file ./building.10_WOHN.pak
+      packing building.10_WOHN
+   writing file ./building.A1_ALTE_KIRCHE.pak
+      packing building.A1_ALTE_KIRCHE
+   writing file ./building.Raven_Kirche.pak
+      packing building.Raven_Kirche
+   writing file ./building.Gymnasium.pak
+      packing building.Gymnasium
+   writing file ./building.OldTownhall.pak
+      packing building.OldTownhall
+   writing file ./building.A6_DOME.pak
+      packing building.A6_DOME
+   writing file ./building.Tennis_Court.pak
+      packing building.Tennis_Court
+   writing file ./building.STADIUM2.pak
+      packing building.STADIUM2
+   writing file ./building.Theatre.pak
+      packing building.Theatre
+   writing file ./building.Feste.pak
+      packing building.Feste
+   writing file ./building.Residenz.pak
+      packing building.Residenz
