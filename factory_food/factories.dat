@@ -677,5 +677,6 @@ passenger_demand=95
 Dims=1,1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 intro_year=1910
-BackImage[0][0][0][0][0]=PublicHouse.1.0
+BackImage[0][0][0][1][0]=PublicHouse.1.0
+BackImage[0][0][0][0][0]=PublicHouse.2.0
 ----------------------------------------
