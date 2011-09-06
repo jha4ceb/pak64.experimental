@@ -4,20 +4,64 @@ Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. M
 M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
 
 writing invidual files to ./
-   reading file ./power.dat
-   writing file ./factory.Aufwindkraftwerk.pak
-      packing factory.Aufwindkraftwerk
-   writing file ./factory.Geokraftwerk.pak
-      packing factory.Geokraftwerk
-   writing file ./factory.Turmkraftwerk.pak
-      packing factory.Turmkraftwerk
-   writing file ./factory.thermisches_Solarkraftwerk.pak
-      packing factory.thermisches_Solarkraftwerk
-   writing file ./factory.Rinnenkraftwerk.pak
-      packing factory.Rinnenkraftwerk
-   writing file ./factory.Windkraftwerk.pak
-      packing factory.Windkraftwerk
-   writing file ./factory.Oelkraftwerk.pak
-      packing factory.Oelkraftwerk
-   writing file ./factory.Kohlekraftwerk.pak
-      packing factory.Kohlekraftwerk
+   reading file ./factories.dat
+   writing file ./factory.Kohlegrube.pak
+      packing factory.Kohlegrube
+   writing file ./factory.Erzbergwerk.pak
+      packing factory.Erzbergwerk
+   writing file ./factory.Stahlwerk.pak
+      packing factory.Stahlwerk
+   writing file ./factory.Autohersteller.pak
+      packing factory.Autohersteller
+   writing file ./factory.Autohaus.pak
+      packing factory.Autohaus
+   writing file ./factory.TANKE.pak
+      packing factory.TANKE
+   writing file ./factory.3Raffinerie.pak
+      packing factory.3Raffinerie
+   writing file ./factory.Oelfeld.pak
+      packing factory.Oelfeld
+   writing file ./factory.Oelpumpe.pak
+      packing factory.Oelpumpe
+   writing file ./factory.Oelbohrinsel.pak
+      packing factory.Oelbohrinsel
+   writing file ./factory.ChemicalPlant.pak
+      packing factory.ChemicalPlant
+   writing file ./factory.Pharmaceutics.pak
+      packing factory.Pharmaceutics
+   writing file ./factory.CHEMIST.pak
+      packing factory.CHEMIST
+   writing file ./factory.Papierfabrik.pak
+      packing factory.Papierfabrik
+   writing file ./factory.Druckerei.pak
+      packing factory.Druckerei
+   writing file ./factory.Stationer.pak
+      packing factory.Stationer
+   writing file ./factory.Buchgrosshandel.pak
+      packing factory.Buchgrosshandel
+   writing file ./factory.Small-Bookshop.pak
+      packing factory.Small-Bookshop
+   writing file ./factory.Nutzwald.pak
+      packing factory.Nutzwald
+   writing file ./factory.Saegewerk.pak
+      packing factory.Saegewerk
+   writing file ./factory.SaegewerkMHz.pak
+      packing factory.SaegewerkMHz
+   writing file ./factory.Moebelfabrik.pak
+      packing factory.Moebelfabrik
+   writing file ./factory.Moebelhaus.pak
+      packing factory.Moebelhaus
+   writing file ./factory.2Raffinerie.pak
+      packing factory.2Raffinerie
+   writing file ./factory.Raffinerie.pak
+      packing factory.Raffinerie
+   writing file ./factory.Stonequarry.pak
+      packing factory.Stonequarry
+   writing file ./factory.Sandquarry.pak
+      packing factory.Sandquarry
+   writing file ./factory.Cementmill.pak
+      packing factory.Cementmill
+   writing file ./factory.Concretefactory.pak
+      packing factory.Concretefactory
+   writing file ./factory.Materialswholesale.pak
+      packing factory.Materialswholesale
