@@ -1,8 +1,9 @@
-0.1 released 5th September
+Changed for 0.2
 
 FIX: COM images
 ADD: New end-users for the food industry: butcher, fish market, public house and cornershop
 ADD: New end-users for paper industry: stationer and small bookshop
+ADD: Many new city attractions
 CHANGE: Altered data for existing attractions to make them less likely to occur and to lower their passenger levels
 REMOVE: 'Old gate' attraction.
 CHANGE: Changed announcement message for attractions so that it no longer makes reference to 'tourists'.
