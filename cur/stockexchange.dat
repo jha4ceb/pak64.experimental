@@ -1,0 +1,15 @@
+Obj=building
+Name=HighSchool
+Type=cur
+Passengers=8
+build_time=6000
+intro_year=1945
+chance=100
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=govtbuilding_pak.0.0
+BackImage[0][0][0][1][0][0]=govtbuilding_pak.0.1
+BackImage[0][0][1][0][0][0]=govtbuilding_pak.0.2
+BackImage[0][0][1][1][0][0]=govtbuilding_pak.1.0
+BackImage[0][1][0][0][0][0]=govtbuilding_pak.1.1
+BackImage[0][1][0][1][0][0]=govtbuilding_pak.1.2
+BackImage[0][1][1][0][0][0]=govtbuilding_pak.2.0

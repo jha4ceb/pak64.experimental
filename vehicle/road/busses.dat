@@ -27,6 +27,8 @@ payload=20
 
 overcrowded_capacity=10
 
+min_loading_time=10
+max_loading_time=60
 speed=33
 
 cost=350000
@@ -97,6 +99,8 @@ speed=43
 cost=450000
 
 weight=6
+min_loading_time=10
+max_loading_time=60
 
 power=62
 
@@ -159,6 +163,8 @@ waytype=road
 
 freight=Passagiere
 
+min_loading_time=10
+max_loading_time=60
 payload=34
 overcrowded_capacity=13
 
@@ -227,6 +233,8 @@ overcrowded_capacity=16
 
 speed=60
 
+min_loading_time=10
+max_loading_time=60
 cost=500000
 
 weight=12
@@ -284,6 +292,8 @@ freight=Passagiere
 payload=44
 overcrowded_capacity=18
 
+min_loading_time=10
+max_loading_time=60
 speed=70
 
 cost=550000
@@ -341,6 +351,8 @@ waytype=road
 
 freight=Passagiere
 
+min_loading_time=10
+max_loading_time=60
 payload=70
 overcrowded_capacity=25
 
@@ -404,6 +416,8 @@ waytype=road
 
 freight=Passagiere
 
+min_loading_time=10
+max_loading_time=60
 payload=84
 overcrowded_capacity=30
 
@@ -458,6 +472,8 @@ name=Gelenkbus_Front
 
 waytype=road
 
+min_loading_time=10
+max_loading_time=60
 freight=Passagiere
 
 copyright=Hajo
@@ -530,6 +546,8 @@ overcrowded_capacity=10
 speed=75
 cost=100000
 
+min_loading_time=10
+max_loading_time=60
 RunningCost=1
 
 weight=7
@@ -589,6 +607,8 @@ speed=60
 
 cost=390000
 
+min_loading_time=10
+max_loading_time=60
 weight=5
 
 power=95
@@ -644,6 +664,8 @@ payload=50
 
 speed=100
 
+min_loading_time=10
+max_loading_time=60
 cost=430000
 
 weight=6
@@ -705,6 +727,8 @@ freight=Passagiere
 payload=18
 overcrowded_capacity=5
 
+min_loading_time=10
+max_loading_time=60
 speed=80
 
 cost=430000

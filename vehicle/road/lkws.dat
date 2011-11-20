@@ -9,6 +9,9 @@ copyright=Hajo
 waytype=road
 freight=Holz
 payload=16
+
+min_loading_time=60
+max_loading_time=300
 engine_type=diesel
 smoke=Diesel
 speed=60
@@ -25,6 +28,8 @@ EmptyImage[S]=veh-wood.2.0
 EmptyImage[N]=veh-wood.2.1
 
 
+min_loading_time=60
+max_loading_time=300
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -59,6 +64,9 @@ copyright=Hajo
 waytype=road
 freight=Eisenerz
 payload=20
+
+min_loading_time=60
+max_loading_time=300
 speed=60
 engine_type=diesel
 smoke=Diesel
@@ -79,7 +87,6 @@ years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
 
-loading_time=15000
 
 Constraint[Prev][0]=none
 EmptyImage[S]=HTrans-Erzlaster.0.0
@@ -140,6 +147,9 @@ engine_type=diesel
 smoke=Diesel
 freight=Kohle
 payload=18
+
+min_loading_time=60
+max_loading_time=300
 speed=50
 cost=340000
 weight=14
@@ -229,6 +239,8 @@ retire_year=2031
 
 
 
+min_loading_time=60
+max_loading_time=300
 loading_time=15000
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -272,6 +284,9 @@ increase_maintenance_by_percent=400
 engine_type=diesel
 smoke=Diesel
 payload=24
+
+min_loading_time=60
+max_loading_time=300
 speed=50
 cost=400000
 weight=8
@@ -307,8 +322,12 @@ increase_maintenance_by_percent=400
 
 
 
-loading_time=15000freight=Plastik
+loading_time=15000
+freight=Plastik
 payload=17
+
+min_loading_time=60
+max_loading_time=300
 speed=70
 engine_type=diesel
 smoke=Diesel
@@ -355,6 +374,8 @@ sound=1
 intro_year = 1929
 intro_month = 12
 
+min_loading_time=60
+max_loading_time=300
 
 
 fixed_maintenance=250
@@ -392,6 +413,9 @@ engine_type=diesel
 smoke=Diesel
 cost=400000
 weight=14
+
+min_loading_time=60
+max_loading_time=300
 power=324
 RunningCost=150
 sound=1
@@ -431,6 +455,8 @@ increase_maintenance_by_percent=400
 loading_time=15000
 
 
+min_loading_time=60
+max_loading_time=300
 freight=Buecher
 payload=26
 engine_type=diesel
@@ -474,6 +500,9 @@ loading_time=15000engine_type=diesel
 smoke=Diesel
 freight=Autos
 payload=8
+
+min_loading_time=60
+max_loading_time=300
 speed=100
 smoke=Diesel
 cost=500000
@@ -521,6 +550,9 @@ engine_type=diesel
 smoke=Diesel
 freight=Sand
 payload=20
+
+min_loading_time=60
+max_loading_time=300
 speed=80
 cost=410000
 weight=20
@@ -598,6 +630,9 @@ loading_time=15000freight=Oel
 engine_type=diesel
 smoke=Diesel
 payload=40
+
+min_loading_time=60
+max_loading_time=300
 speed=80
 cost=900000
 weight=11
@@ -638,6 +673,8 @@ cost=430000
 weight=21
 power=374
 
+min_loading_time=60
+max_loading_time=300
 
 
 fixed_maintenance=250
@@ -710,6 +747,8 @@ freight=Bretter
 payload=35
 
 
+min_loading_time=60
+max_loading_time=300
 
 fixed_maintenance=250
 increase_maintenance_after_years=20

@@ -1,0 +1,12 @@
+Obj=building
+Name=LargeLibrary
+Type=cur
+Passengers=4
+build_time=7500
+intro_year=1974
+chance=90
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=largelibrary.0.0
+BackImage[0][0][1][0][0][0]=largelibrary.0.1
+BackImage[0][1][0][0][0][0]=largelibrary.1.0
+BackImage[0][1][1][0][0][0]=largelibrary.1.1

@@ -1,0 +1,15 @@
+Obj=building
+Name=LargeHospital
+Type=cur
+build_time=8000
+Passengers=15
+intro_year=1955
+chance=66
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=largehospital.0.0
+BackImage[0][0][0][1][0][0]=largehospital.0.1
+BackImage[0][0][1][0][0][0]=largehospital.0.2
+BackImage[0][0][1][1][0][0]=largehospital.1.0
+BackImage[0][1][0][0][0][0]=largehospital.1.1
+BackImage[0][1][0][1][0][0]=largehospital.1.2
+BackImage[0][1][1][0][0][0]=largehospital.2.0

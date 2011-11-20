@@ -1,0 +1,53 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.0.6 Experimental 9.9 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./rails.dat
+   writing file ./way.sand_track.pak
+      packing way.sand_track
+   writing file ./way.wooden_sleeper_track.pak
+      packing way.wooden_sleeper_track
+   writing file ./way.concrete_sleeper_track.pak
+      packing way.concrete_sleeper_track
+   writing file ./way.steel_sleeper_track.pak
+      packing way.steel_sleeper_track
+   writing file ./tunnel.SubwayTunnel.pak
+      packing tunnel.SubwayTunnel
+   writing file ./tunnel.FastRailTunnel.pak
+      packing tunnel.FastRailTunnel
+   writing file ./tunnel.RailTunnel.pak
+      packing tunnel.RailTunnel
+   writing file ./bridge.ClassicRail.pak
+      packing bridge.ClassicRail
+   writing file ./bridge.ViaductRail.pak
+      packing bridge.ViaductRail
+WARNING: not frontstart[n] specified (but might be still working)
+WARNING: not frontstart[s] specified (but might be still working)
+WARNING: not frontstart[e] specified (but might be still working)
+WARNING: not frontstart[w] specified (but might be still working)
+WARNING: not frontramp[n] specified (but might be still working)
+WARNING: not frontramp[s] specified (but might be still working)
+WARNING: not frontramp[e] specified (but might be still working)
+WARNING: not frontramp[w] specified (but might be still working)
+   writing file ./bridge.SteelRail.pak
+      packing bridge.SteelRail
+   writing file ./bridge.koka_Bridge_single.pak
+      packing bridge.koka_Bridge_single
+   writing file ./way-object.SlowOverheadpower.pak
+      packing way-object.SlowOverheadpower
+   writing file ./way-object.HighSpeedOverheadpower.pak
+      packing way-object.HighSpeedOverheadpower
+   writing file ./roadsign.Signals.pak
+      packing roadsign.Signals
+   writing file ./roadsign.preSignals.pak
+      packing roadsign.preSignals
+   writing file ./roadsign.ChooseSignals.pak
+      packing roadsign.ChooseSignals
+   writing file ./roadsign.LongBlockSignals.pak
+      packing roadsign.LongBlockSignals
+   writing file ./roadsign.RailClose.pak
+      packing roadsign.RailClose
+   writing file ./roadsign.Endofchoosetrack.pak
+      packing roadsign.Endofchoosetrack

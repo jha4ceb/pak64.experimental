@@ -1,0 +1,12 @@
+Obj=building
+Name=OperaHouse
+Type=mon
+Passengers=35
+build_time=11000
+intro_year=1920
+chance=93
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=OperaHouse_pak.0.0
+BackImage[0][0][1][0][0][0]=OperaHouse_pak.0.1
+BackImage[0][1][0][0][0][0]=OperaHouse_pak.1.0
+BackImage[0][1][1][0][0][0]=OperaHouse_pak.1.1

@@ -1,0 +1,11 @@
+Obj=building
+Name=test_1
+Type=cur
+Passengers=100
+intro_year=1900
+chance=100
+dims=1,2,1
+BackImage[0][0][0][0][0][0]=researchlab2_pak.0.0
+BackImage[0][0][0][1][0][0]=researchlab2_pak.0.1
+BackImage[0][1][0][0][0][0]=researchlab2_pak.1.0
+BackImage[0][1][0][1][0][0]=researchlab2_pak.1.1

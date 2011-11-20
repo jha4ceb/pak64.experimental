@@ -21,6 +21,9 @@ intro_month=4
 RunningCost=190
 sound=-1
 fixed_maintenance=150
+
+min_loading_time=60
+max_loading_time=600
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
@@ -45,6 +48,9 @@ weight=12
 RunningCost=1000
 intro_year=1920
 intro_month=03
+
+min_loading_time=60
+max_loading_time=600
 retire_year=1975fixed_maintenance=150
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -69,6 +75,9 @@ cost=400000
 weight=48
 RunningCost=2050
 intro_year=1964
+
+min_loading_time=60
+max_loading_time=600
 fixed_maintenance=150
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -96,6 +105,9 @@ speed=44
 cost=4410000
 weight=90
 power=310
+
+min_loading_time=60
+max_loading_time=600
 RunningCost=13500
 sound=-1
 intro_year=1955
@@ -130,6 +142,9 @@ cost=1600000
 weight=14
 power=85
 RunningCost=3350
+
+min_loading_time=60
+max_loading_time=600
 sound=-1
 intro_year=1928fixed_maintenance=150
 increase_maintenance_after_years=20
@@ -161,6 +176,9 @@ speed=85
 cost=483000
 weight=24
 power=291
+
+min_loading_time=60
+max_loading_time=600
 smoke=Diesel
 RunningCost=220
 sound=1
@@ -194,6 +212,9 @@ speed=100
 cost=1200000
 weight=22
 power=290
+
+min_loading_time=60
+max_loading_time=600
 RunningCost=3950
 smoke=Diesel
 intro_year=1962

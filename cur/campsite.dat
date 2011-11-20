@@ -1,0 +1,11 @@
+Obj=building
+Name=Campsite
+Type=cur
+Passengers=10
+intro_year=1925
+chance=40
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=campsite_.0.0
+BackImage[0][0][1][0][0][0]=campsite_.0.1
+BackImage[0][1][0][0][0][0]=campsite_.1.0
+BackImage[0][1][1][0][0][0]=campsite_.1.1

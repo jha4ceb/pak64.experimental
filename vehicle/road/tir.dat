@@ -166,7 +166,8 @@ cost=320000
 weight=12
 RunningCost=500
 sound=-1
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -206,7 +207,8 @@ cost=320000
 weight=12
 RunningCost=200
 sound=-1
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -275,6 +277,8 @@ cost=320000
 weight=12
 RunningCost=2150
 sound=-1
+min_loading_time=60
+max_loading_time=480
 
 
 fixed_maintenance=250
@@ -308,7 +312,8 @@ cost=320000
 weight=14
 RunningCost=1050
 sound=-1
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -341,7 +346,8 @@ cost=320000
 weight=12
 RunningCost=50
 sound=-1
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -375,7 +381,8 @@ weight=12
 RunningCost=250
 sound=-1
 
-
+min_loading_time=60
+max_loading_time=480
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -408,7 +415,8 @@ cost=320000
 weight=12
 RunningCost=500
 sound=-1
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20

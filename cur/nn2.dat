@@ -1,0 +1,10 @@
+Obj=building
+Name=TVstation
+Type=cur
+build_time=12000
+Passengers=15
+intro_year=1955
+chance=66
+dims=1,2,1
+BackImage[0][0][0][0][0][0]=natnewspaper2.0.0
+BackImage[0][1][0][0][0][0]=natnewspaper2.0.1

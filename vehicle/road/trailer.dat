@@ -14,6 +14,8 @@ copyright=Hajo
 waytype=road
 freight=Eisenerz
 payload=20
+min_loading_time=60
+max_loading_time=480
 cost=70000
 weight=9
 speed=80
@@ -98,6 +100,8 @@ payload=22
 cost=80000
 weight=10
 speed=80
+min_loading_time=60
+max_loading_time=480
 RunningCost=260
 sound=-1
 intro_year = 1929
@@ -185,7 +189,8 @@ intro_year = 1929
 intro_month = 7
 retire_year = 2006
 
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -236,7 +241,8 @@ years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
 
-
+min_loading_time=60
+max_loading_time=480
 
 loading_time=15000Constraint[Prev][0]=Holztransporter
 Constraint[Prev][1]=Brettertransporter
@@ -274,14 +280,14 @@ sound=-1
 intro_year = 1928
 intro_month = 11
 
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
-loading_time=15000
 Constraint[Prev][0]=Holztransporter
 Constraint[Prev][1]=Erztransporter
 Constraint[Prev][2]=Kohletransporter
@@ -327,7 +333,8 @@ intro_year = 1941
 intro_month = 6
 retire_year=1998
 
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -366,9 +373,8 @@ Constraint[Prev][0]=Holztransporter
 Constraint[Prev][1]=Erztransporter
 Constraint[Prev][2]=Kohletransporter
 Constraint[Prev][3]=Tanklastzug
-
-
-loading_time=15000
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -411,7 +417,8 @@ cost=70000
 weight=10
 speed=80
 
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -467,13 +474,13 @@ sound=-1
 intro_year = 1929
 intro_month = 12
 Constraint[Prev][0]=Holztransporter
-
+min_loading_time=60
+max_loading_time=480
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
-loading_time=15000
 
 
 Constraint[Prev][1]=Erztransporter
@@ -524,13 +531,13 @@ sound=-1
 intro_year = 1961
 intro_month = 2
 retire_year=2007
-
+min_loading_time=60
+max_loading_time=480
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
-loading_time=15000
 
 
 Constraint[Next][0]=none
@@ -596,14 +603,14 @@ RunningCost=270
 sound=-1
 intro_year = 1974
 
-
+min_loading_time=60
+max_loading_time=480
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
-loading_time=15000
 intro_month = 5
 Constraint[Next][0]=none
 Constraint[Prev][0]=Stonetransporter
@@ -667,13 +674,13 @@ speed=90
 RunningCost=300
 sound=-1
 
-
+min_loading_time=60
+max_loading_time=480
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
-loading_time=15000
 intro_year = 1963
 intro_month = 2
 retire_year=2006

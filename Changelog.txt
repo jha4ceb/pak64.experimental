@@ -1,10 +1,13 @@
 0.1 released 5th September
 
 FIX: COM images
-ADD: Four new end-users for the food industry: butcher, fish market, public house and cornershop
-ADD: Two new end-users for paper industry: stationer and small bookshop
+ADD: New end-users for the food industry: butcher, fish market, public house and cornershop
+ADD: New end-users for paper industry: stationer and small bookshop
 CHANGE: Altered data for existing attractions to make them less likely to occur and to lower their passenger levels
-ADD: New "commuter" attractions: radio station, run-down office, inn, call-centre, city gardens, hotel, city park, consultancy, insurance company, lawyer, bank, various offices.
 REMOVE: 'Old gate' attraction.
 CHANGE: Changed announcement message for attractions so that it no longer makes reference to 'tourists'.
-CHANGE: Increased passenger level for RES, IND and COM buildings in order to avoid sprawl on creating a new map
+CHANGE: Increased passenger level for low-end RES, IND and COM buildings in order to avoid sprawl on creating a new map
+ADD: Variable loading times for all goods-carrying vehicles
+CHANGE: Increased value of paper
+FIX: Food wagons are now present
+CHANGE: Increased cost of faster tracks

@@ -20,7 +20,8 @@ speed=70
 weight=6
 
 length=4
-
+min_loading_time=15
+max_loading_time=85
 power=200
 
 gear=50
@@ -81,7 +82,8 @@ speed=70
 weight=7
 
 length=6
-
+min_loading_time=15
+max_loading_time=85
 freight=Passagiere
 
 payload=34
@@ -146,7 +148,8 @@ freight=Passagiere
 payload=19
 
 power=200
-
+min_loading_time=15
+max_loading_time=85
 gear=50
 
 cost=200000
@@ -202,7 +205,8 @@ weight=6
 power=200
 
 gear=50
-
+min_loading_time=15
+max_loading_time=85
 sound=2
 
 freight=Passagiere

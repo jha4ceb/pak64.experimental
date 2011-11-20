@@ -19,10 +19,10 @@ RunningCost=357
 intro_year=1911
 intro_month=1
 retire_year = 1946
+min_loading_time=60
+max_loading_time=480
 
 
-
-loading_time=15000
 
 fixed_maintenance=250
 increase_maintenance_after_years=20
@@ -59,14 +59,13 @@ intro_year=1911
 intro_month=1
 retire_year = 1946
 
-
+min_loading_time=60
+max_loading_time=480
 fixed_maintenance=250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
-
-loading_time=15000
 
 
 Constraint[Prev][0]=none

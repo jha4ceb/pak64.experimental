@@ -1,0 +1,10 @@
+Obj=building
+Name=OutdoorPool
+Type=cur
+Passengers=2
+build_time=4500
+intro_year=1915
+chance=75
+dims=2,1,1
+BackImage[0][0][0][0][0][0]=outdoorpool_pak1.0.0
+BackImage[0][0][1][0][0][0]=outdoorpool_pak1.0.1

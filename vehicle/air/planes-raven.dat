@@ -19,7 +19,9 @@ retire_year=1940
 sound=6
 
 
-loading_time=30000
+min_loading_time=1200
+max_loading_time=1200
+
 fixed_maintenance=1850
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -53,6 +55,8 @@ intro_year=1935
 intro_month=1
 retire_year=1975
 
+min_loading_time=1200
+max_loading_time=1200
 
 
 loading_time=30000
@@ -88,6 +92,8 @@ weight=11
 cost=1250000
 runningcost=90
 
+min_loading_time=1200
+max_loading_time=1200
 
 
 loading_time=30000
@@ -128,6 +134,8 @@ intro_year=1932
 intro_month=4
 retire_year=1960
 
+min_loading_time=1200
+max_loading_time=1200
 
 loading_time=30000
 fixed_maintenance=1250
@@ -164,6 +172,8 @@ intro_year=1950
 intro_month=10
 retire_year=1968
 
+min_loading_time=1200
+max_loading_time=1200
 
 loading_time=30000
 fixed_maintenance=11250
@@ -200,8 +210,9 @@ intro_month=4
 retire_year=1968
 
 
+min_loading_time=1200
+max_loading_time=1200
 
-loading_time=30000
 fixed_maintenance=12250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -233,7 +244,8 @@ weight=340
 cost=12900000
 
 
-loading_time=30000
+min_loading_time=1200
+max_loading_time=1200
 fixed_maintenance=12250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -269,8 +281,9 @@ cost=12900000
 runningcost=2450
 intro_year=1958
 
+min_loading_time=1200
+max_loading_time=1200
 
-loading_time=30000
 fixed_maintenance=11250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -307,6 +320,8 @@ runningcost=6470
 intro_year=2006
 sound=5
 
+min_loading_time=1200
+max_loading_time=1200
 
 loading_time=30000
 fixed_maintenance=16250
@@ -344,7 +359,9 @@ retire_year=2003
 retire_month=4
 
 
-loading_time=30000
+min_loading_time=1200
+max_loading_time=1200
+
 fixed_maintenance=32250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -378,7 +395,9 @@ cost=2400000
 runningcost=416
 
 
-loading_time=30000
+min_loading_time=1200
+max_loading_time=1200
+
 fixed_maintenance=11250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30

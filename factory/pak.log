@@ -4,64 +4,48 @@ Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. M
 M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
 
 writing invidual files to ./
-   reading file ./factories.dat
-   writing file ./factory.Kohlegrube.pak
-      packing factory.Kohlegrube
-   writing file ./factory.Erzbergwerk.pak
-      packing factory.Erzbergwerk
-   writing file ./factory.Stahlwerk.pak
-      packing factory.Stahlwerk
-   writing file ./factory.Autohersteller.pak
-      packing factory.Autohersteller
-   writing file ./factory.Autohaus.pak
-      packing factory.Autohaus
-   writing file ./factory.TANKE.pak
-      packing factory.TANKE
-   writing file ./factory.3Raffinerie.pak
-      packing factory.3Raffinerie
-   writing file ./factory.Oelfeld.pak
-      packing factory.Oelfeld
-   writing file ./factory.Oelpumpe.pak
-      packing factory.Oelpumpe
-   writing file ./factory.Oelbohrinsel.pak
-      packing factory.Oelbohrinsel
-   writing file ./factory.ChemicalPlant.pak
-      packing factory.ChemicalPlant
-   writing file ./factory.Pharmaceutics.pak
-      packing factory.Pharmaceutics
-   writing file ./factory.CHEMIST.pak
-      packing factory.CHEMIST
-   writing file ./factory.Papierfabrik.pak
-      packing factory.Papierfabrik
-   writing file ./factory.Druckerei.pak
-      packing factory.Druckerei
-   writing file ./factory.Stationer.pak
-      packing factory.Stationer
-   writing file ./factory.Buchgrosshandel.pak
-      packing factory.Buchgrosshandel
-   writing file ./factory.Small-Bookshop.pak
-      packing factory.Small-Bookshop
-   writing file ./factory.Nutzwald.pak
-      packing factory.Nutzwald
-   writing file ./factory.Saegewerk.pak
-      packing factory.Saegewerk
-   writing file ./factory.SaegewerkMHz.pak
-      packing factory.SaegewerkMHz
-   writing file ./factory.Moebelfabrik.pak
-      packing factory.Moebelfabrik
-   writing file ./factory.Moebelhaus.pak
-      packing factory.Moebelhaus
-   writing file ./factory.2Raffinerie.pak
-      packing factory.2Raffinerie
-   writing file ./factory.Raffinerie.pak
-      packing factory.Raffinerie
-   writing file ./factory.Stonequarry.pak
-      packing factory.Stonequarry
-   writing file ./factory.Sandquarry.pak
-      packing factory.Sandquarry
-   writing file ./factory.Cementmill.pak
-      packing factory.Cementmill
-   writing file ./factory.Concretefactory.pak
-      packing factory.Concretefactory
-   writing file ./factory.Materialswholesale.pak
-      packing factory.Materialswholesale
+   reading file ./goods.dat
+   writing file ./good.Passagiere.pak
+      packing good.Passagiere
+   writing file ./good.Post.pak
+      packing good.Post
+   writing file ./good.None.pak
+      packing good.None
+   writing file ./good.Kohle.pak
+      packing good.Kohle
+   writing file ./good.Eisenerz.pak
+      packing good.Eisenerz
+   writing file ./good.Stone.pak
+      packing good.Stone
+   writing file ./good.Sand.pak
+      packing good.Sand
+   writing file ./good.Stahl.pak
+      packing good.Stahl
+   writing file ./good.Holz.pak
+      packing good.Holz
+   writing file ./good.Bretter.pak
+      packing good.Bretter
+   writing file ./good.Oel.pak
+      packing good.Oel
+   writing file ./good.Gasoline.pak
+      packing good.Gasoline
+   writing file ./good.Plastik.pak
+      packing good.Plastik
+   writing file ./good.PrintersInk.pak
+      packing good.PrintersInk
+   writing file ./good.Chemicals.pak
+      packing good.Chemicals
+   writing file ./good.Medicine.pak
+      packing good.Medicine
+   writing file ./good.Buecher.pak
+      packing good.Buecher
+   writing file ./good.Moebel.pak
+      packing good.Moebel
+   writing file ./good.Autos.pak
+      packing good.Autos
+   writing file ./good.Papier.pak
+      packing good.Papier
+   writing file ./good.Cement.pak
+      packing good.Cement
+   writing file ./good.Concrete.pak
+      packing good.Concrete

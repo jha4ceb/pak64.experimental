@@ -16,7 +16,8 @@ gear=90
 weight=2
 cost=450000
 runningcost=60
-loading_time=30000
+min_loading_time=1200
+max_loading_time=1200
 comfort=90
 fixed_maintenance=1250
 increase_maintenance_after_years=20
@@ -92,9 +93,13 @@ increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
+min_loading_time=1200
+max_loading_time=1200
 
 
-loading_time=30000intro_month=1
+
+
+intro_month=1
 sound=5
 smoke=-1
 Constraint[Prev][0]=none
@@ -131,8 +136,10 @@ years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
 
 
+min_loading_time=1200
+max_loading_time=1200
 
-loading_time=30000runningcost=205
+runningcost=205
 intro_year=1955
 intro_month=4
 retire_year=1996
@@ -166,7 +173,9 @@ intro_year=1916
 
 
 
-loading_time=30000
+min_loading_time=1200
+max_loading_time=1200
+
 fixed_maintenance=1250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -206,6 +215,8 @@ sound=5
 smoke=-1
 
 
+min_loading_time=1200
+max_loading_time=1200
 fixed_maintenance=1250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -242,6 +253,8 @@ sound=6
 smoke=Diesel
 
 
+min_loading_time=1200
+max_loading_time=1200
 
 fixed_maintenance=8250
 increase_maintenance_after_years=20

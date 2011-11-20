@@ -1,0 +1,12 @@
+Obj=building
+Name=OlympicPool
+Type=mon
+Passengers=35
+build_time=10000
+intro_year=1960
+chance=93
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=OlympicPool_pak.0.0
+BackImage[0][0][1][0][0][0]=OlympicPool_pak.0.1
+BackImage[0][1][0][0][0][0]=OlympicPool_pak.1.0
+BackImage[0][1][1][0][0][0]=OlympicPool_pak.1.1

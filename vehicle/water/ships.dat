@@ -25,6 +25,8 @@ smoke=Diesel
 freight=Passagiere
 
 payload=100
+min_loading_time=300
+max_loading_time=900
 
 speed=42
 
@@ -45,7 +47,6 @@ retire_year = 1990
 
 gear=100
 
-loading_time=11000
 comfort=80
 fixed_maintenance=4000
 increase_maintenance_after_years=40
@@ -94,6 +95,9 @@ payload=278
 
 speed=60
 
+min_loading_time=300
+max_loading_time=900
+
 cost=2600000
 
 weight=215
@@ -113,8 +117,6 @@ retire_year=2000
 
 retire_month=10
 
-
-loading_time=11000
 
 comfort=100
 fixed_maintenance=10250
@@ -157,6 +159,9 @@ freight=Passagiere
 
 payload=91
 
+min_loading_time=300
+max_loading_time=900
+
 engine_type=sail
 
 speed=26
@@ -177,7 +182,6 @@ retire_year=1909
 retire_month=11
 
 
-loading_time=11000
 
 comfort=100
 fixed_maintenance=4796
@@ -224,6 +228,9 @@ payload=100
 
 speed=20
 
+min_loading_time=300
+max_loading_time=900
+
 cost=2000000
 
 weight=35
@@ -233,7 +240,6 @@ power=400
 RunningCost=260
 
 sound=-1
-loading_time=18200
 intro_year=1789
 
 retire_year=1932
@@ -274,6 +280,9 @@ freight=Passagiere
 
 payload=660
 
+min_loading_time=300
+max_loading_time=900
+
 speed=40
 
 cost=4000000
@@ -287,8 +296,6 @@ sound=-1
 
 intro_year=1964
 
-
-loading_time=11000
 
 comfort=100
 fixed_maintenance=13866
@@ -330,6 +337,9 @@ engine_type=steam
 smoke=Steam
 
 waytype=water
+
+min_loading_time=300
+max_loading_time=900
 
 freight=Passagiere
 
@@ -393,6 +403,9 @@ freight=Post
 
 payload=40
 
+min_loading_time=300
+max_loading_time=900
+
 speed=30
 
 cost=1000000
@@ -452,6 +465,9 @@ speed=50
 
 cost=1600000
 
+min_loading_time=300
+max_loading_time=900
+
 weight=135
 
 power=335
@@ -464,7 +480,6 @@ sound=4
 intro_year=1922
 
 
-loading_time=6588
 fixed_maintenance=4020
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -507,6 +522,9 @@ freight=Buecher
 
 payload=40
 
+min_loading_time=300
+max_loading_time=900
+
 speed=25
 
 cost=1800000
@@ -524,7 +542,6 @@ intro_year=1805
 retire_year=1925
 
 
-loading_time=6588
 fixed_maintenance=4020
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -563,6 +580,9 @@ waytype=water
 
 freight=Buecher
 
+min_loading_time=300
+max_loading_time=900
+
 payload=100
 
 speed=40
@@ -581,7 +601,6 @@ intro_year=1862
 retire_year=1939
 
 
-loading_time=6588
 fixed_maintenance=14020
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -625,6 +644,9 @@ speed=40
 
 cost=1200000
 
+min_loading_time=300
+max_loading_time=900
+
 weight=35
 
 power=370
@@ -642,7 +664,6 @@ retire_month=3
 retire_year=1920
 
 
-loading_time=6588
 fixed_maintenance=14753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -690,6 +711,9 @@ payload=150
 
 speed=25
 
+min_loading_time=300
+max_loading_time=900
+
 cost=1000000
 
 weight=70
@@ -709,7 +733,6 @@ retire_year=1920
 
 
 
-loading_time=6588
 fixed_maintenance=11753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -770,6 +793,9 @@ speed=10
 
 cost=100000
 
+min_loading_time=300
+max_loading_time=900
+
 weight=70
 
 power=0
@@ -785,7 +811,6 @@ retire_month=3
 retire_year=1920
 
 
-loading_time=13588
 fixed_maintenance=11753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -832,6 +857,9 @@ freight=Moebel
 
 payload=200
 
+min_loading_time=300
+max_loading_time=900
+
 speed=38
 
 cost=2200000
@@ -849,8 +877,6 @@ sound=4
 intro_year=1908
 
 
-
-loading_time=8099
 fixed_maintenance=17753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -893,6 +919,9 @@ freight=Stahl
 
 payload=320
 
+min_loading_time=300
+max_loading_time=900
+
 speed=38
 
 cost=2500000
@@ -910,7 +939,6 @@ intro_month=6
 gear=200
 
 
-loading_time=14099
 fixed_maintenance=18753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -970,6 +998,9 @@ freight=Papier
 
 payload=120
 
+min_loading_time=300
+max_loading_time=900
+
 speed=38
 
 cost=2500000
@@ -988,7 +1019,6 @@ gear=200
 
 
 
-loading_time=14099
 fixed_maintenance=9753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -1055,6 +1085,9 @@ cost=2500000
 
 weight=210
 
+min_loading_time=300
+max_loading_time=900
+
 power=600
 
 RunningCost=5000
@@ -1067,7 +1100,6 @@ gear=200
 
 
 
-loading_time=14099
 fixed_maintenance=11753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -1133,6 +1165,9 @@ cost=2500000
 
 weight=210
 
+min_loading_time=300
+max_loading_time=900
+
 power=600
 
 RunningCost=7800
@@ -1145,7 +1180,6 @@ gear=200
 
 
 
-loading_time=14099
 fixed_maintenance=11753
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -1204,6 +1238,9 @@ smoke=Diesel
 
 freight=Buecher
 
+min_loading_time=300
+max_loading_time=900
+
 payload=600
 
 speed=44
@@ -1224,7 +1261,6 @@ gear=200
 
 
 
-loading_time=14099
 fixed_maintenance=45029
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -1284,6 +1320,9 @@ freight=Oel
 
 payload=320
 
+min_loading_time=300
+max_loading_time=900
+
 speed=38
 
 cost=2500000
@@ -1300,8 +1339,6 @@ intro_month=6
 
 gear=200
 
-
-loading_time=14099
 fixed_maintenance=16029
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -1348,6 +1385,9 @@ payload=320
 
 speed=38
 
+min_loading_time=300
+max_loading_time=900
+
 cost=2500000
 
 weight=210
@@ -1362,7 +1402,6 @@ intro_month=6
 
 gear=200
 
-loading_time=14099
 fixed_maintenance=11029
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20
@@ -1410,6 +1449,9 @@ payload=320
 
 speed=38
 
+
+min_loading_time=300
+max_loading_time=900
 cost=2500000
 
 weight=210
@@ -1427,7 +1469,6 @@ gear=200
 freight=Kohle
 
 
-loading_time=14099
 fixed_maintenance=18029
 increase_maintenance_after_years=40
 years_before_maintenance_max_reached=20

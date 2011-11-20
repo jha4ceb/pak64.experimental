@@ -1,12 +1,12 @@
 # Modified by Carl Baker for pak64.experimental, Sept 2011
 
 Obj=building
-Name=ElementarySchool
+Name=HighSchool
 copyright=Patrick
 Type=cur
-Build_Time=5000
-Passengers=16
-Chance=30
+Build_Time=6500
+Passengers=10
+Chance=55
 Dims=2,3,2
 BackImage[0][0][0][0][0]=elementary_school_1.3.2
 BackImage[0][1][0][0][0]=elementary_school_1.3.1

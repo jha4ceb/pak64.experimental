@@ -186,8 +186,8 @@ name=Papier
 mapcolor=214
 metric=rolls
 catg=0
-value=120
-speed_bonus=4
+value=150
+speed_bonus=5
 weight_per_unit=2500
 -----------------------
 obj=good

@@ -22,7 +22,8 @@ speed=90
 
 payload=120
 cost=1250000
-
+min_loading_time=15
+max_loading_time=85
 weight=30
 
 power=105
@@ -78,7 +79,8 @@ speed=90
 
 payload=100
 cost=1250000
-
+min_loading_time=15
+max_loading_time=85
 weight=30
 
 power=105
@@ -134,7 +136,8 @@ engine_type=electric
 freight=Passagiere
 
 speed=50
-
+min_loading_time=15
+max_loading_time=85
 payload=60
 cost=750000
 
@@ -190,7 +193,8 @@ engine_type=electric
 freight=Passagiere
 
 speed=50
-
+min_loading_time=15
+max_loading_time=85
 payload=70
 cost=450000
 
@@ -251,7 +255,8 @@ speed=70
 
 payload=65
 cost=750000
-
+min_loading_time=15
+max_loading_time=85
 weight=30
 
 power=180
@@ -308,7 +313,8 @@ speed=70
 
 payload=65
 cost=650000
-
+min_loading_time=15
+max_loading_time=85
 weight=20
 
 power=0
@@ -366,7 +372,8 @@ speed=25
 cost=10000
 
 weight=4
-
+min_loading_time=15
+max_loading_time=85
 power=10
 
 gear=250
@@ -424,7 +431,8 @@ cost=20000
 weight=6
 
 speed=25
-
+min_loading_time=15
+max_loading_time=85
 RunningCost=100
 
 sound=-1
@@ -474,7 +482,8 @@ cost=850000
 weight=13
 
 power=60
-
+min_loading_time=15
+max_loading_time=85
 gear=250
 
 RunningCost=120
@@ -521,7 +530,8 @@ speed=54
 payload=50
 
 cost=650000
-
+min_loading_time=15
+max_loading_time=85
 weight=9
 
 power=0
@@ -576,7 +586,8 @@ speed=50
 payload=30
 
 cost=650000
-
+min_loading_time=15
+max_loading_time=85
 weight=14
 
 power=67
@@ -636,7 +647,8 @@ payload=30
 cost=250000
 
 weight=10
-
+min_loading_time=15
+max_loading_time=85
 RunningCost=60
 
 intro_year=1913

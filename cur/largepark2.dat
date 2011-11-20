@@ -1,0 +1,14 @@
+Obj=building
+Name=LargePark1
+Type=cur
+Passengers=6
+build_time=7292
+intro_year=1825
+chance=85
+dims=3,2,1
+BackImage[0][0][0][0][0][0]=largepark2_pak.0.0
+BackImage[0][0][1][0][0][0]=largepark2_pak.0.1
+BackImage[0][0][2][0][0][0]=largepark2_pak.0.2
+BackImage[0][1][0][0][0][0]=largepark2_pak.1.0
+BackImage[0][1][1][0][0][0]=largepark2_pak.1.1
+BackImage[0][1][2][0][0][0]=largepark2_pak.1.2

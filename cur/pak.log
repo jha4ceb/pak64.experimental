@@ -11,8 +11,8 @@ writing invidual files to ./
       packing building.A1_ALTE_KIRCHE
    writing file ./building.Raven_Kirche.pak
       packing building.Raven_Kirche
-   writing file ./building.Gymnasium.pak
-      packing building.Gymnasium
+   writing file ./building.PrivateSchool.pak
+      packing building.PrivateSchool
    writing file ./building.OldTownhall.pak
       packing building.OldTownhall
    writing file ./building.A6_DOME.pak
@@ -53,3 +53,78 @@ writing invidual files to ./
       packing building.Bank
    writing file ./building.Hotel.pak
       packing building.Hotel
+   writing file ./building.ElementarySchool.pak
+      packing building.ElementarySchool
+   writing file ./building.ElementarySchool2.pak
+      packing building.ElementarySchool2
+   writing file ./building.ElementarySchool3.pak
+      packing building.ElementarySchool3
+   writing file ./building.ElementarySchool4.pak
+      packing building.ElementarySchool4
+   writing file ./building.FootballPitch.pak
+      packing building.FootballPitch
+   writing file ./building.ArtGallery.pak
+      packing building.ArtGallery
+WARNING: ignoring alpha channel
+   writing file ./building.ArtGallery2.pak
+      packing building.ArtGallery2
+   writing file ./building.ArtGallery3.pak
+      packing building.ArtGallery3
+   writing file ./building.NationalFinanceCentre.pak
+      packing building.NationalFinanceCentre
+WARNING: ignoring alpha channel
+   writing file ./building.SoftwareCompany.pak
+      packing building.SoftwareCompany
+WARNING: ignoring alpha channel
+   writing file ./building.TVstation.pak
+      packing building.TVstation
+   writing file ./building.NatNewspaper.pak
+      packing building.NatNewspaper
+   writing file ./building.GovtBuilding.pak
+      packing building.GovtBuilding
+   writing file ./building.LargeHospital.pak
+      packing building.LargeHospital
+   writing file ./building.5StarHotel.pak
+      packing building.5StarHotel
+WARNING: ignoring alpha channel
+   writing file ./building.ResearchLab.pak
+      packing building.ResearchLab
+   writing file ./building.Police.pak
+      packing building.Police
+WARNING: ignoring alpha channel
+   writing file ./building.Fire.pak
+      packing building.Fire
+WARNING: ignoring alpha channel
+   writing file ./building.Embassy.pak
+      packing building.Embassy
+WARNING: ignoring alpha channel
+   writing file ./building.University.pak
+      packing building.University
+   writing file ./building.HighSchool.pak
+      packing building.HighSchool
+   writing file ./building.SmallHospital.pak
+      packing building.SmallHospital
+   writing file ./building.NurserySchool.pak
+      packing building.NurserySchool
+   writing file ./building.MetUni.pak
+      packing building.MetUni
+   writing file ./building.FamousRestaurant.pak
+      packing building.FamousRestaurant
+WARNING: ignoring alpha channel
+   writing file ./building.OutdoorPool.pak
+      packing building.OutdoorPool
+   writing file ./building.LargeLibrary.pak
+      packing building.LargeLibrary
+   writing file ./building.Casino.pak
+      packing building.Casino
+WARNING: ignoring alpha channel
+   writing file ./building.LargePark.pak
+      packing building.LargePark
+   writing file ./building.OperaHouse.pak
+      packing building.OperaHouse
+   writing file ./building.OlympicPool.pak
+      packing building.OlympicPool
+   writing file ./building.NationalGallery.pak
+      packing building.NationalGallery
+   writing file ./building.NationalMuseum.pak
+      packing building.NationalMuseum
