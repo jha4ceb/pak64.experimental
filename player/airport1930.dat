@@ -6,6 +6,7 @@ copyright=MHz
 intro_year = 1930
 intro_month = 1
 type=extension
+cost=1000
 waytype=air
 level=1
 cursor=cursors-airport.1.3

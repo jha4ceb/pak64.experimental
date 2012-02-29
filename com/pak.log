@@ -1,0 +1,9 @@
+
+Makeobj-Experimental, based on Makeobj version 52 for Simutrans 110.6 Experimental 10.0 and higher
+Experimental version by James E. Petts, derived from Makeobj, (c) 2002-2006 V. Meyer , Hj. Malthaner and 
+M. Pristovsek (markus@pristovsek.de). This is open source software, released under the Artistic Licence.
+
+writing invidual files to ./
+   reading file ./ExtraCom.dat
+   writing file ./building.COM_01_21_01.pak
+      packing building.COM_01_21_01

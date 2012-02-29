@@ -1,0 +1,20 @@
+
+Makeobj version 52 for simutrans  111.0 and higher
+(c) 2002-2006 V. Meyer , Hj. Malthaner, M. Pristovsek (markus@pristovsek.de)
+
+writing invidual files to ./
+   reading file ./airport-477.dat
+   writing file ./building.AirStop.pak
+      packing building.AirStop
+   writing file ./building.PlainAirStop.pak
+      packing building.PlainAirStop
+   writing file ./building.AirTerminal477.pak
+      packing building.AirTerminal477
+   writing file ./building.ModernAirTerminal477.pak
+      packing building.ModernAirTerminal477
+   writing file ./building.AirDepot.pak
+      packing building.AirDepot
+   writing file ./building.TowerMoistboy.pak
+      packing building.TowerMoistboy
+   writing file ./building.BigTerminal477.pak
+      packing building.BigTerminal477

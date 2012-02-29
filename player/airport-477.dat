@@ -7,6 +7,7 @@ Name=AirStop
 # must be 1*1
 type=stop
 waytype=air
+cost=1000
 NoInfo=1
 intro_year = 1950
 Dims=1,1,4
@@ -26,6 +27,7 @@ Name=PlainAirStop
 # must be 1*1
 type=stop
 waytype=air
+cost=1000
 NoInfo=1
 intro_year = 1901
 intro_month = 7
@@ -94,6 +96,7 @@ Obj=building
 Name=TowerMoistboy
 copyright=moistboy
 type=extension
+cost=1000
 waytype=air
 # must be 1*1
 intro_year = 1950
