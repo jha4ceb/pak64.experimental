@@ -9,3 +9,7 @@ BackImage[0][0][0][0][0][0]=campsite_.0.0
 BackImage[0][0][1][0][0][0]=campsite_.0.1
 BackImage[0][1][0][0][0][0]=campsite_.1.0
 BackImage[0][1][1][0][0][0]=campsite_.1.1
+BackImage[0][0][0][0][0][1]=campsite_w.0.0
+BackImage[0][0][1][0][0][1]=campsite_w.0.1
+BackImage[0][1][0][0][0][1]=campsite_w.1.0
+BackImage[0][1][1][0][0][1]=campsite_w.1.1

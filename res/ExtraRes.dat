@@ -9,8 +9,10 @@ level=7
 chance=75
 intro_year=1909
 retire_year=1990
-backimage[0][0][0][0][0]=res_01_04.1.0
-backimage[1][0][0][0][0]=res_01_04.1.1
+backimage[0][0][0][0][0][0]=res_01_04.1.0
+backimage[1][0][0][0][0][0]=res_01_04.1.1
+backimage[0][0][0][0][0][1]=res_01_04_w.1.0
+backimage[1][0][0][0][0][1]=res_01_04_w.1.1
 
 ---------
 
@@ -22,9 +24,10 @@ level=55
 chance=90
 intro_year=1893
 retire_year=1980
-backimage[0][0][0][0][0]=res_00_18.1.0
-backimage[1][0][0][0][0]=res_00_18.1.1
-
+backimage[0][0][0][0][0][0]=res_00_18.1.0
+backimage[1][0][0][0][0][0]=res_00_18.1.1
+backimage[0][0][0][0][0][1]=res_00_18_w.1.0
+backimage[1][0][0][0][0][1]=res_00_18_w.1.1
 
 ----------
 
@@ -38,11 +41,14 @@ intro_year=1923
 retire_year=2007
 climates=desert,mediterran,tropic,temperate,tundra
 Dims=1,1,2
-backimage[0][0][0][1][0]=res_01_50.1.0
-backimage[0][0][0][0][0]=res_01_50.2.0
-backimage[1][0][0][1][0]=res_01_50.1.1
-backimage[1][0][0][0][0]=res_01_50.2.1
-
+backimage[0][0][0][1][0][0]=res_01_50.1.0
+backimage[0][0][0][0][0][0]=res_01_50.2.0
+backimage[1][0][0][1][0][0]=res_01_50.1.1
+backimage[1][0][0][0][0][0]=res_01_50.2.1
+backimage[0][0][0][1][0][1]=res_01_50_w.1.0
+backimage[0][0][0][0][0][1]=res_01_50_w.2.0
+backimage[1][0][0][1][0][1]=res_01_50_w.1.1
+backimage[1][0][0][0][0][1]=res_01_50_w.2.1
 -------------
 
 obj=building
@@ -54,8 +60,10 @@ chance=55
 intro_year=1944
 retire_year=1990
 Dims=1,1,2
-backimage[0][0][0][0][0]=res_05_05.1.0
-backimage[1][0][0][0][0]=res_05_05.1.1
+backimage[0][0][0][0][0][0]=res_05_05.1.0
+backimage[1][0][0][0][0][0]=res_05_05.1.1
+backimage[0][0][0][0][0][1]=res_05_05_w.1.0
+backimage[1][0][0][0][0][1]=res_05_05_w.1.1
 
 
 ------------
@@ -68,8 +76,8 @@ level=4
 chance=50
 intro_year=1937
 retire_year=1997
-backimage[0][0][0][0][0]=res_05_07.1.0
-
+backimage[0][0][0][0][0][0]=res_05_07.1.0
+backimage[0][0][0][0][0][1]=res_05_07_w.1.0
 ------------
 
 obj=building
@@ -78,9 +86,11 @@ copyright=Frans van Nispen
 type=res
 level=23
 chance=75
-intro_year=1997
+intro_year=1971
 retire_year=2040
 climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
 backimage[0][0][0][1][0][0]=com_06_43.1.0
 backimage[0][0][0][0][0][0]=com_06_43.2.0
+backimage[0][0][0][1][0][1]=com_06_43_w.1.0
+backimage[0][0][0][0][0][1]=com_06_43_w.2.0
 

@@ -231,6 +231,7 @@ intro_year=1940
 retire_year=2025
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=radiostation.1.0
+BackImage[0][0][0][0][0][1]=radiostation_w.1.0
 --------------------
 
 Obj=building
@@ -244,6 +245,7 @@ intro_year=1920
 retire_year=1980
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=oldoffice.1.0
+BackImage[0][0][0][0][0][1]=oldoffice_w.1.0
 --------------------
 
 Obj=building
@@ -257,6 +259,7 @@ intro_year=1920
 retire_year=1980
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=oldoffice.1.1
+BackImage[0][0][0][0][0][1]=oldoffice_w.1.1
 
 --------------------
 
@@ -361,7 +364,8 @@ build_time=1200
 chance=66
 intro_year=1929
 climates=tropic,mediterran,temperate,tundra,rocky
-BackImage[0][0][0][0][0]=smalloffice.1.0
+BackImage[0][0][0][0][0][0]=smalloffice.1.0
+BackImage[0][0][0][0][0][1]=smalloffice_w.1.0
 --------------------
 
 Obj=building
@@ -373,7 +377,8 @@ build_time=2700
 chance=66
 intro_year=1929
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
-BackImage[0][0][0][0][0]=bank.1.0
+BackImage[0][0][0][0][0][0]=bank.1.0
+BackImage[0][0][0][0][0][1]=bank_w.1.0
 --------------------
 
 
@@ -386,8 +391,10 @@ build_time=7000
 chance=88
 intro_year=1948
 climates=tropic,mediterran,temperate,tundra,rocky
-BackImage[0][0][0][1][0]=hotel.1.0
-BackImage[0][0][0][0][0]=hotel.2.0
+BackImage[0][0][0][1][0][0]=hotel.1.0
+BackImage[0][0][0][0][0][0]=hotel.2.0
+BackImage[0][0][0][1][0][1]=hotel_w.1.0
+BackImage[0][0][0][0][0][1]=hotel_w.2.0
 --------------------
 Obj=building
 Name=ElementarySchool
@@ -401,6 +408,10 @@ BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
 BackImage[1][0][1][0][0][0]=ElementarySchool1.0.1
+BackImage[0][0][0][0][0][1]=ElementarySchool_w.0.0
+BackImage[0][1][0][0][0][1]=ElementarySchool_w.0.1
+BackImage[1][0][0][0][0][1]=ElementarySchool1_w.0.0
+BackImage[1][0][1][0][0][1]=ElementarySchool1_w.0.1
 ----------------------
 Obj=building
 Name=ElementarySchool2
@@ -414,6 +425,10 @@ BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
 BackImage[1][0][1][0][0][0]=ElementarySchool1.0.1
+BackImage[0][0][0][0][0][1]=ElementarySchool_w.0.0
+BackImage[0][1][0][0][0][1]=ElementarySchool_w.0.1
+BackImage[1][0][0][0][0][1]=ElementarySchool1_w.0.0
+BackImage[1][0][1][0][0][1]=ElementarySchool1_w.0.1
 ----------------------
 Obj=building
 Name=ElementarySchool3
@@ -427,6 +442,10 @@ BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
 BackImage[1][0][1][0][0][0]=ElementarySchool1.0.1
+BackImage[0][0][0][0][0][1]=ElementarySchool_w.0.0
+BackImage[0][1][0][0][0][1]=ElementarySchool_w.0.1
+BackImage[1][0][0][0][0][1]=ElementarySchool1_w.0.0
+BackImage[1][0][1][0][0][1]=ElementarySchool1_w.0.1
 ----------------------
 Obj=building
 Name=ElementarySchool4
@@ -440,6 +459,10 @@ BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
 BackImage[1][0][1][0][0][0]=ElementarySchool1.0.1
+BackImage[0][0][0][0][0][1]=ElementarySchool_w.0.0
+BackImage[0][1][0][0][0][1]=ElementarySchool_w.0.1
+BackImage[1][0][0][0][0][1]=ElementarySchool1_w.0.0
+BackImage[1][0][1][0][0][1]=ElementarySchool1_w.0.1
 ----------------------
 
 Obj=building
@@ -521,8 +544,10 @@ build_time=4000
 chance=66
 intro_year=1993
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
-BackImage[0][0][0][1][0]=nationalbank.1.0
-BackImage[0][0][0][0][0]=nationalbank.2.0
+BackImage[0][0][0][1][0][0]=nationalbank.1.0
+BackImage[0][0][0][0][0][0]=nationalbank.2.0
+BackImage[0][0][0][1][0][1]=nationalbank_w.1.0
+BackImage[0][0][0][0][0][1]=nationalbank_W.2.0
 --------------------
 
 Obj=building
@@ -534,8 +559,10 @@ build_time=16000
 chance=66
 intro_year=1993
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
-BackImage[0][0][0][1][0]=softwarecompany.0.0
-BackImage[0][0][0][0][0]=softwarecompany.1.0
+BackImage[0][0][0][1][0][0]=softwarecompany.0.0
+BackImage[0][0][0][0][0][0]=softwarecompany.1.0
+BackImage[0][0][0][1][0][1]=softwarecompany_w.0.0
+BackImage[0][0][0][0][0][1]=softwarecompany_w.1.0
 --------------------
 
 Obj=building
@@ -550,6 +577,10 @@ BackImage[0][0][0][0][0][0]=tvstation_pak.0.0
 BackImage[0][0][1][0][0][0]=tvstation_pak.0.1
 BackImage[0][1][0][0][0][0]=tvstation_pak.1.0
 BackImage[0][1][1][0][0][0]=tvstation_pak.1.1
+BackImage[0][0][0][0][0][1]=tvstation_pak_w.0.0
+BackImage[0][0][1][0][0][1]=tvstation_pak_w.0.1
+BackImage[0][1][0][0][0][1]=tvstation_pak_w.1.0
+BackImage[0][1][1][0][0][1]=tvstation_pak_w.1.1
 
 ---------------------
 
@@ -565,7 +596,10 @@ BackImage[0][0][0][0][0][0]=natnewspaper1.0.0
 BackImage[0][0][1][0][0][0]=natnewspaper1.0.1
 BackImage[1][0][0][0][0][0]=natnewspaper2.0.0
 BackImage[1][1][0][0][0][0]=natnewspaper2.0.1
-
+BackImage[0][0][0][0][0][1]=natnewspaper1_w.0.0
+BackImage[0][0][1][0][0][1]=natnewspaper1_w.0.1
+BackImage[1][0][0][0][0][1]=natnewspaper2_w.0.0
+BackImage[1][1][0][0][0][1]=natnewspaper2_w.0.1
 --------------------------
 
 Obj=building
@@ -583,7 +617,13 @@ BackImage[0][0][1][1][0][0]=govtbuilding_pak.1.0
 BackImage[0][1][0][0][0][0]=govtbuilding_pak.1.1
 BackImage[0][1][0][1][0][0]=govtbuilding_pak.1.2
 BackImage[0][1][1][0][0][0]=govtbuilding_pak.2.0
-
+BackImage[0][0][0][0][0][1]=govtbuilding_pak_w.0.0
+BackImage[0][0][0][1][0][1]=govtbuilding_pak_w.0.1
+BackImage[0][0][1][0][0][1]=govtbuilding_pak_w.0.2
+BackImage[0][0][1][1][0][1]=govtbuilding_pak_w.1.0
+BackImage[0][1][0][0][0][1]=govtbuilding_pak_w.1.1
+BackImage[0][1][0][1][0][1]=govtbuilding_pak_w.1.2
+BackImage[0][1][1][0][0][1]=govtbuilding_pak_w.2.0
 -------------------
 
 Obj=building
@@ -601,7 +641,13 @@ BackImage[0][0][1][1][0][0]=largehospital_pak.1.0
 BackImage[0][1][0][0][0][0]=largehospital_pak.1.1
 BackImage[0][1][0][1][0][0]=largehospital_pak.1.2
 BackImage[0][1][1][0][0][0]=largehospital_pak.2.0
-
+BackImage[0][0][0][0][0][1]=largehospital_pak_w.0.0
+BackImage[0][0][0][1][0][1]=largehospital_pak_w.0.1
+BackImage[0][0][1][0][0][1]=largehospital_pak_w.0.2
+BackImage[0][0][1][1][0][1]=largehospital_pak_w.1.0
+BackImage[0][1][0][0][0][1]=largehospital_pak_w.1.1
+BackImage[0][1][0][1][0][1]=largehospital_pak_w.1.2
+BackImage[0][1][1][0][0][1]=largehospital_pak_w.2.0
 ---------------------
 
 
@@ -614,8 +660,11 @@ build_time=12000
 chance=66
 intro_year=1996
 climates=tropic,mediterran,temperate,tundra,rocky
-BackImage[0][0][0][1][0]=5StarHotel.0.0
-BackImage[0][0][0][0][0]=5StarHotel.1.0
+BackImage[0][0][0][1][0][0]=5StarHotel.0.0
+BackImage[0][0][0][0][0][0]=5StarHotel.1.0
+BackImage[0][0][0][1][0][1]=5StarHotel_w.0.0
+BackImage[0][0][0][0][0][1]=5StarHotel_w.1.0
+
 --------------------
 
 Obj=building
@@ -634,7 +683,14 @@ BackImage[1][0][0][0][0][0]=researchlab2_pak.0.0
 BackImage[1][0][0][1][0][0]=researchlab2_pak.0.1
 BackImage[1][1][0][0][0][0]=researchlab2_pak.1.0
 BackImage[1][1][0][1][0][0]=researchlab2_pak.1.1
-
+BackImage[0][0][0][0][0][1]=researchlab1_pak_w.0.0
+BackImage[0][0][0][1][0][1]=researchlab1_pak_w.0.1
+BackImage[0][0][1][0][0][1]=researchlab1_pak_w.1.0
+BackImage[0][0][1][1][0][1]=researchlab1_pak_w.1.1
+BackImage[1][0][0][0][0][1]=researchlab2_pak_w.0.0
+BackImage[1][0][0][1][0][1]=researchlab2_pak_w.0.1
+BackImage[1][1][0][0][0][1]=researchlab2_pak_w.1.0
+BackImage[1][1][0][1][0][1]=researchlab2_pak_w.1.1
 ----------------------------------
 
 Obj=building
@@ -646,7 +702,8 @@ build_time=3000
 chance=90
 intro_year=1930
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
-BackImage[0][0][0][0][0]=police.0.0
+BackImage[0][0][0][0][0][0]=police.0.0
+BackImage[0][0][0][0][0][1]=police.0.0
 --------------------
 
 Obj=building
@@ -658,7 +715,8 @@ build_time=4000
 chance=90
 intro_year=1930
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
-BackImage[0][0][0][0][0]=fire.0.0
+BackImage[0][0][0][0][0][0]=fire.0.0
+BackImage[0][0][0][0][0][1]=fire_w.0.0
 --------------------
 
 
@@ -671,7 +729,8 @@ build_time=10000
 chance=66
 intro_year=1930
 climates=tropic,mediterran,temperate,tundra,rocky
-BackImage[0][0][0][0][0]=embassy.0.0
+BackImage[0][0][0][0][0][0]=embassy.0.0
+BackImage[0][0][0][0][0][1]=embassy_w.0.0
 --------------------
 
 Obj=building
@@ -698,7 +757,22 @@ BackImage[0][3][0][0][0][0]=university_pak.3.0
 BackImage[0][3][1][0][0][0]=university_pak.3.1
 BackImage[0][3][2][0][0][0]=university_pak.3.2
 BackImage[0][3][3][0][0][0]=university_pak.3.3
-
+BackImage[0][0][0][0][0][1]=university_pak_w.0.0
+BackImage[0][0][1][0][0][1]=university_pak_w.0.1
+BackImage[0][0][2][0][0][1]=university_pak_w.0.2
+BackImage[0][0][3][0][0][1]=university_pak_w.0.3
+BackImage[0][1][0][0][0][1]=university_pak_w.1.0
+BackImage[0][1][1][0][0][1]=university_pak_w.1.1
+BackImage[0][1][2][0][0][1]=university_pak_w.1.2
+BackImage[0][1][3][0][0][1]=university_pak_w.1.3
+BackImage[0][2][0][0][0][1]=university_pak_w.2.0
+BackImage[0][2][1][0][0][1]=university_pak_w.2.1
+BackImage[0][2][2][0][0][1]=university_pak_w.2.2
+BackImage[0][2][3][0][0][1]=university_pak_w.2.3
+BackImage[0][3][0][0][0][1]=university_pak_w.3.0
+BackImage[0][3][1][0][0][1]=university_pak_w.3.1
+BackImage[0][3][2][0][0][1]=university_pak_w.3.2
+BackImage[0][3][3][0][0][1]=university_pak_w.3.3
 ----------------------
 
 Obj=building
@@ -716,7 +790,13 @@ BackImage[0][0][1][1][0][0]=highschool_pak.1.0
 BackImage[0][1][0][0][0][0]=highschool_pak.1.1
 BackImage[0][1][0][1][0][0]=highschool_pak.1.2
 BackImage[0][1][1][0][0][0]=highschool_pak.2.0
-
+BackImage[0][0][0][0][0][1]=highschool_pak_w.0.0
+BackImage[0][0][0][1][0][1]=highschool_pak_w.0.1
+BackImage[0][0][1][0][0][1]=highschool_pak_w.0.2
+BackImage[0][0][1][1][0][1]=highschool_pak_w.1.0
+BackImage[0][1][0][0][0][1]=highschool_pak_w.1.1
+BackImage[0][1][0][1][0][1]=highschool_pak_w.1.2
+BackImage[0][1][1][0][0][1]=highschool_pak_w.2.0
 ------------------------
 
 Obj=building
@@ -731,6 +811,10 @@ BackImage[0][0][0][0][0][0]=smallhospital_pak.0.0
 BackImage[0][0][1][0][0][0]=smallhospital_pak.0.1
 BackImage[0][1][0][0][0][0]=smallhospital_pak.1.0
 BackImage[0][1][1][0][0][0]=smallhospital_pak.1.1
+BackImage[0][0][0][0][0][1]=smallhospital_pak_w.0.0
+BackImage[0][0][1][0][0][1]=smallhospital_pak_w.0.1
+BackImage[0][1][0][0][0][1]=smallhospital_pak_w.1.0
+BackImage[0][1][1][0][0][1]=smallhospital_pak_w.1.1
 
 -------------------
 Obj=building
@@ -761,7 +845,13 @@ BackImage[0][0][1][1][0][0]=metuni_pak.1.0
 BackImage[0][1][0][0][0][0]=metuni_pak.1.1
 BackImage[0][1][0][1][0][0]=metuni_pak.1.2
 BackImage[0][1][1][0][0][0]=metuni_pak.2.0
-
+BackImage[0][0][0][0][0][1]=metuni_pak_w.0.0
+BackImage[0][0][0][1][0][1]=metuni_pak_w.0.1
+BackImage[0][0][1][0][0][1]=metuni_pak_w.0.2
+BackImage[0][0][1][1][0][1]=metuni_pak_w.1.0
+BackImage[0][1][0][0][0][1]=metuni_pak_w.1.1
+BackImage[0][1][0][1][0][1]=metuni_pak_w.1.2
+BackImage[0][1][1][0][0][1]=metuni_pak_w.2.0
 -------------------
 Obj=building
 Name=FamousRestaurant
@@ -772,8 +862,8 @@ build_time=8000
 chance=88
 intro_year=1930
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
-BackImage[0][0][0][0][0]=famousrestaurant.0.0
-
+BackImage[0][0][0][0][0][0]=famousrestaurant.0.0
+BackImage[0][0][0][0][0][1]=famousrestaurant_w.0.0
 -----------------------
 
 Obj=building
@@ -804,7 +894,10 @@ BackImage[0][0][0][0][0][0]=largelibrary.0.0
 BackImage[0][0][1][0][0][0]=largelibrary.0.1
 BackImage[0][1][0][0][0][0]=largelibrary.1.0
 BackImage[0][1][1][0][0][0]=largelibrary.1.1
-
+BackImage[0][0][0][0][0][1]=largelibrary_w.0.0
+BackImage[0][0][1][0][0][1]=largelibrary_w.0.1
+BackImage[0][1][0][0][0][1]=largelibrary_w.1.0
+BackImage[0][1][1][0][0][1]=largelibrary_w.1.1
 ---------------------------
 
 -------------------
@@ -817,8 +910,8 @@ build_time=8231
 chance=88
 intro_year=1945
 climates=tropic,mediterran,temperate,tundra,rocky
-BackImage[0][0][0][0][0]=casino.0.0
-
+BackImage[0][0][0][0][0][0]=casino.0.0
+BackImage[0][0][0][0][0][1]=casino_w.0.0
 -----------------------------------
 
 Obj=building
@@ -856,6 +949,10 @@ BackImage[0][0][0][0][0][0]=OperaHouse_pak.0.0
 BackImage[0][0][1][0][0][0]=OperaHouse_pak.0.1
 BackImage[0][1][0][0][0][0]=OperaHouse_pak.1.0
 BackImage[0][1][1][0][0][0]=OperaHouse_pak.1.1
+BackImage[0][0][0][0][0][1]=OperaHouse_pak_w.0.0
+BackImage[0][0][1][0][0][1]=OperaHouse_pak_w.0.1
+BackImage[0][1][0][0][0][1]=OperaHouse_pak_w.1.0
+BackImage[0][1][1][0][0][1]=OperaHouse_pak_w.1.1
 
 -----------------------------------------
 
@@ -871,6 +968,11 @@ BackImage[0][0][0][0][0][0]=OlympicPool_pak.0.0
 BackImage[0][0][1][0][0][0]=OlympicPool_pak.0.1
 BackImage[0][1][0][0][0][0]=OlympicPool_pak.1.0
 BackImage[0][1][1][0][0][0]=OlympicPool_pak.1.1
+BackImage[0][0][0][0][0][1]=OlympicPool_pak_w.0.0
+BackImage[0][0][1][0][0][1]=OlympicPool_pak_w.0.1
+BackImage[0][1][0][0][0][1]=OlympicPool_pak_w.1.0
+BackImage[0][1][1][0][0][1]=OlympicPool_pak_w.1.1
+
 
 ---------------------------------------------
 
@@ -886,6 +988,11 @@ BackImage[0][0][0][0][0][0]=Nationalgallery_pak.0.0
 BackImage[0][0][1][0][0][0]=Nationalgallery_pak.0.1
 BackImage[0][1][0][0][0][0]=Nationalgallery_pak.1.0
 BackImage[0][1][1][0][0][0]=Nationalgallery_pak.1.1
+BackImage[0][0][0][0][0][1]=Nationalgallery_pak_w.0.0
+BackImage[0][0][1][0][0][1]=Nationalgallery_pak_w.0.1
+BackImage[0][1][0][0][0][1]=Nationalgallery_pak_w.1.0
+BackImage[0][1][1][0][0][1]=Nationalgallery_pak_w.1.1
+
 ------------------------------------------------------
 Obj=building
 Name=NationalMuseum
@@ -907,4 +1014,15 @@ BackImage[1][1][0][0][0][0]=nationalmuseum_pak1.0.2
 BackImage[1][1][1][0][0][0]=nationalmuseum_pak1.1.0
 BackImage[1][2][0][0][0][0]=nationalmuseum_pak1.1.1
 BackImage[1][2][1][0][0][0]=nationalmuseum_pak1.1.2
-
+BackImage[0][0][0][0][0][1]=nationalmuseum_pak2_w.0.0
+BackImage[0][0][1][0][0][1]=nationalmuseum_pak2_w.0.1
+BackImage[0][0][2][0][0][1]=nationalmuseum_pak2_w.0.2
+BackImage[0][1][0][0][0][1]=nationalmuseum_pak2_w.1.0
+BackImage[0][1][1][0][0][1]=nationalmuseum_pak2_w.1.1
+BackImage[0][1][2][0][0][1]=nationalmuseum_pak2_w.1.2
+BackImage[1][0][0][0][0][1]=nationalmuseum_pak1_w.0.0
+BackImage[1][0][1][0][0][1]=nationalmuseum_pak1_w.0.1
+BackImage[1][1][0][0][0][1]=nationalmuseum_pak1_w.0.2
+BackImage[1][1][1][0][0][1]=nationalmuseum_pak1_w.1.0
+BackImage[1][2][0][0][0][1]=nationalmuseum_pak1_w.1.1
+BackImage[1][2][1][0][0][1]=nationalmuseum_pak1_w.1.2

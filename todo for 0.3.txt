@@ -1,0 +1,8 @@
+To-do for 0.3
+
+-- Winter versions of everything new
+-- Why are depot costs zero?
+-- Carriage team (horses) needs 3kn tractive effort
+-- Aircraft stop, boarding bridge, airport tower, etc have capacity zero
+-- Activate ownership in menuconf.tab
+-- simple_tool[34]=,O in the SECOND SECTION

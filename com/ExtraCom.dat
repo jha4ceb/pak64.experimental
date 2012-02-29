@@ -10,7 +10,8 @@ intro_year=1994
 retire_year=2999
 chance=45
 climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
-backimage[0][0][0][0][0]=com_01_21.1.0
+backimage[0][0][0][0][0][0]=com_01_21.1.0
+backimage[0][0][0][0][0][1]=com_01_21_w.1.0
 
 ----
 
@@ -23,7 +24,7 @@ chance=70
 intro_year=1979
 retire_year=2999
 climates=mediterran,temperate,tundra,rocky
-backimage[0][0][0][0][0]=com_06_04.1.0
-
+backimage[0][0][0][0][0][0]=com_06_04.1.0
+backimage[0][0][0][0][0][1]=com_06_04.1.0
 
 
