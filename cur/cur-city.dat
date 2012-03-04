@@ -229,6 +229,8 @@ Build_Time=4500
 chance=20
 intro_year=1940
 retire_year=2025
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=radiostation.1.0
 BackImage[0][0][0][0][0][1]=radiostation_w.1.0
@@ -243,6 +245,8 @@ Build_Time=4300
 chance=45
 intro_year=1920
 retire_year=1980
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=oldoffice.1.0
 BackImage[0][0][0][0][0][1]=oldoffice_w.1.0
@@ -257,6 +261,8 @@ Build_Time=2900
 chance=45
 intro_year=1920
 retire_year=1980
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=oldoffice.1.1
 BackImage[0][0][0][0][0][1]=oldoffice_w.1.1
@@ -271,6 +277,8 @@ Build_Time=1700
 chance=88
 intro_year=1925
 retire_year=1985
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=com.8.1
 BackImage[0][0][0][0][0][1]=winter-com.8.1
@@ -284,6 +292,8 @@ Passengers=4
 Build_Time=700
 chance=66
 intro_year=1762
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=com.3.4
 BackImage[0][0][0][0][0][1]=winter-com.3.4
@@ -297,6 +307,8 @@ Passengers=4
 intro_year=1712
 chance=66
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=citypark.0.0
 BackImage[0][0][1][0][0][0]=citypark.0.1
 BackImage[0][1][0][0][0][0]=citypark.1.0
@@ -312,6 +324,8 @@ Level=7
 build_time=1800
 chance=45
 intro_year=1947
+
+needs_ground=1
 climates=mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=com.1.10
 BackImage[0][0][0][0][0][1]=winter-com.1.10
@@ -325,6 +339,8 @@ Level=7
 build_time=4400
 chance=45
 intro_year=1947
+
+needs_ground=1
 climates=mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=com.1.10
 BackImage[0][0][0][0][0][1]=winter-com.1.10
@@ -339,6 +355,8 @@ Level=14
 build_time=3800
 chance=88
 intro_year=1929
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0]=com.6.2
 --------------------
@@ -351,6 +369,8 @@ Level=14
 build_time=8400
 chance=88
 intro_year=1933
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0]=com.7.2
 --------------------
@@ -363,6 +383,8 @@ Level=8
 build_time=1200
 chance=66
 intro_year=1929
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=smalloffice.1.0
 BackImage[0][0][0][0][0][1]=smalloffice_w.1.0
@@ -376,6 +398,8 @@ Level=5
 build_time=2700
 chance=66
 intro_year=1929
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=bank.1.0
 BackImage[0][0][0][0][0][1]=bank_w.1.0
@@ -390,6 +414,8 @@ Level=13
 build_time=7000
 chance=88
 intro_year=1948
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][1][0][0]=hotel.1.0
 BackImage[0][0][0][0][0][0]=hotel.2.0
@@ -404,6 +430,8 @@ Passengers=5
 intro_year=1920
 chance=100
 dims=1,2,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
@@ -421,6 +449,8 @@ Passengers=5
 intro_year=1920
 chance=80
 dims=1,2,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
@@ -438,6 +468,8 @@ Passengers=5
 intro_year=1920
 chance=60
 dims=1,2,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
@@ -455,6 +487,8 @@ Passengers=5
 intro_year=1920
 chance=40
 dims=1,2,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=ElementarySchool.0.0
 BackImage[0][1][0][0][0][0]=ElementarySchool.0.1
 BackImage[1][0][0][0][0][0]=ElementarySchool1.0.0
@@ -473,6 +507,8 @@ Passengers=5
 intro_year=1929
 chance=70
 dims=1,2,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=fpitch.0.0
 BackImage[0][1][0][0][0][0]=fpitch.0.1
 BackImage[1][0][0][0][0][0]=fpitch1.0.0
@@ -488,6 +524,8 @@ BackImage[1][0][1][0][0][0]=fpitch1.0.1
 #chance=50
 #build_time=8000
 #dims=2,2,1
+
+needs_ground=1
 #BackImage[0][0][0][0][0][0]=nationallibrary_pak.0.0
 #BackImage[0][0][0][1][0][0]=nationallibrary_pak.0.1
 #BackImage[0][0][1][0][0][0]=nationallibrary_pak.0.2
@@ -507,6 +545,8 @@ Level=9
 build_time=4900
 chance=66
 intro_year=1956
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0]=artgallery.0.0
 --------------------
@@ -518,6 +558,8 @@ Level=9
 build_time=9600
 chance=66
 intro_year=1968
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0]=artgallery.0.1
 --------------------
@@ -529,6 +571,8 @@ Level=9
 build_time=17000
 chance=66
 intro_year=1979
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0]=artgallery.0.2
 --------------------
@@ -543,6 +587,8 @@ Level=50
 build_time=4000
 chance=66
 intro_year=1993
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][1][0][0]=nationalbank.1.0
 BackImage[0][0][0][0][0][0]=nationalbank.2.0
@@ -558,6 +604,8 @@ Passengers=40
 build_time=16000
 chance=66
 intro_year=1993
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][1][0][0]=softwarecompany.0.0
 BackImage[0][0][0][0][0][0]=softwarecompany.1.0
@@ -573,6 +621,8 @@ Passengers=15
 intro_year=1955
 chance=78
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=tvstation_pak.0.0
 BackImage[0][0][1][0][0][0]=tvstation_pak.0.1
 BackImage[0][1][0][0][0][0]=tvstation_pak.1.0
@@ -592,6 +642,8 @@ Passengers=15
 intro_year=1915
 chance=77
 dims=2,1,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=natnewspaper1.0.0
 BackImage[0][0][1][0][0][0]=natnewspaper1.0.1
 BackImage[1][0][0][0][0][0]=natnewspaper2.0.0
@@ -610,6 +662,8 @@ Passengers=30
 intro_year=1955
 chance=66
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=govtbuilding_pak.0.0
 BackImage[0][0][0][1][0][0]=govtbuilding_pak.0.1
 BackImage[0][0][1][0][0][0]=govtbuilding_pak.0.2
@@ -634,6 +688,8 @@ Passengers=15
 intro_year=1955
 chance=77
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=largehospital_pak.0.0
 BackImage[0][0][0][1][0][0]=largehospital_pak.0.1
 BackImage[0][0][1][0][0][0]=largehospital_pak.0.2
@@ -659,6 +715,8 @@ Passengers=55
 build_time=12000
 chance=66
 intro_year=1996
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][1][0][0]=5StarHotel.0.0
 BackImage[0][0][0][0][0][0]=5StarHotel.1.0
@@ -675,6 +733,8 @@ Passengers=20
 intro_year=1980
 chance=66
 dims=2,1,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=researchlab1_pak.0.0
 BackImage[0][0][0][1][0][0]=researchlab1_pak.0.1
 BackImage[0][0][1][0][0][0]=researchlab1_pak.1.0
@@ -701,6 +761,8 @@ Passengers=3
 build_time=3000
 chance=90
 intro_year=1930
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=police.0.0
 BackImage[0][0][0][0][0][1]=police.0.0
@@ -714,6 +776,8 @@ Passengers=3
 build_time=4000
 chance=90
 intro_year=1930
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=fire.0.0
 BackImage[0][0][0][0][0][1]=fire_w.0.0
@@ -728,6 +792,8 @@ Passengers=55
 build_time=10000
 chance=66
 intro_year=1930
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=embassy.0.0
 BackImage[0][0][0][0][0][1]=embassy_w.0.0
@@ -741,6 +807,8 @@ build_time=10000
 intro_year=1960
 chance=100
 dims=4,4,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=university_pak.0.0
 BackImage[0][0][1][0][0][0]=university_pak.0.1
 BackImage[0][0][2][0][0][0]=university_pak.0.2
@@ -783,6 +851,8 @@ build_time=6000
 intro_year=1945
 chance=100
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=highschool_pak.0.0
 BackImage[0][0][0][1][0][0]=highschool_pak.0.1
 BackImage[0][0][1][0][0][0]=highschool_pak.0.2
@@ -807,6 +877,8 @@ Passengers=8
 intro_year=1940
 chance=100
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=smallhospital_pak.0.0
 BackImage[0][0][1][0][0][0]=smallhospital_pak.0.1
 BackImage[0][1][0][0][0][0]=smallhospital_pak.1.0
@@ -825,6 +897,8 @@ Level=9
 build_time=5000
 chance=92
 intro_year=1942
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0]=res.1.7
 
@@ -838,6 +912,8 @@ build_time=14000
 intro_year=1965
 chance=75
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=metuni_pak.0.0
 BackImage[0][0][0][1][0][0]=metuni_pak.0.1
 BackImage[0][0][1][0][0][0]=metuni_pak.0.2
@@ -861,6 +937,8 @@ Level=12
 build_time=8000
 chance=88
 intro_year=1930
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=famousrestaurant.0.0
 BackImage[0][0][0][0][0][1]=famousrestaurant_w.0.0
@@ -874,6 +952,8 @@ build_time=4500
 intro_year=1915
 chance=95
 dims=2,1,2
+
+needs_ground=1
 climates=tropic,meditteran,temperate,tundra
 BackImage[0][0][0][0][0][0]=outdoorpool_pak1.0.0
 BackImage[0][0][1][0][0][0]=outdoorpool_pak1.0.1
@@ -890,6 +970,8 @@ build_time=7500
 intro_year=1974
 chance=90
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=largelibrary.0.0
 BackImage[0][0][1][0][0][0]=largelibrary.0.1
 BackImage[0][1][0][0][0][0]=largelibrary.1.0
@@ -909,6 +991,8 @@ Level=12
 build_time=8231
 chance=88
 intro_year=1945
+
+needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky
 BackImage[0][0][0][0][0][0]=casino.0.0
 BackImage[0][0][0][0][0][1]=casino_w.0.0
@@ -922,6 +1006,8 @@ build_time=7292
 intro_year=1825
 chance=85
 dims=2,3,2
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=largepark1_pak.0.0
 BackImage[0][0][1][0][0][0]=largepark1_pak.0.1
 BackImage[0][1][0][0][0][0]=largepark1_pak.0.2
@@ -945,6 +1031,8 @@ build_time=11000
 intro_year=1920
 chance=93
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=OperaHouse_pak.0.0
 BackImage[0][0][1][0][0][0]=OperaHouse_pak.0.1
 BackImage[0][1][0][0][0][0]=OperaHouse_pak.1.0
@@ -964,6 +1052,8 @@ build_time=10000
 intro_year=1955
 chance=93
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=OlympicPool_pak.0.0
 BackImage[0][0][1][0][0][0]=OlympicPool_pak.0.1
 BackImage[0][1][0][0][0][0]=OlympicPool_pak.1.0
@@ -984,6 +1074,8 @@ build_time=18000
 intro_year=1880
 chance=93
 dims=2,2,1
+
+needs_ground=1
 BackImage[0][0][0][0][0][0]=Nationalgallery_pak.0.0
 BackImage[0][0][1][0][0][0]=Nationalgallery_pak.0.1
 BackImage[0][1][0][0][0][0]=Nationalgallery_pak.1.0
@@ -1002,6 +1094,7 @@ Passengers=20
 intro_year=1900
 chance=75
 dims=3,2,2
+needs_ground=1
 BackImage[0][0][0][0][0][0]=nationalmuseum_pak2.0.0
 BackImage[0][0][1][0][0][0]=nationalmuseum_pak2.0.1
 BackImage[0][0][2][0][0][0]=nationalmuseum_pak2.0.2

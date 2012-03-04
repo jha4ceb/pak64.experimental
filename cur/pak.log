@@ -62,22 +62,18 @@ writing invidual files to ./
       packing building.ElementarySchool4
    writing file ./building.FootballPitch.pak
       packing building.FootballPitch
+   writing file ./..pak
+skipping unknown  object 
    writing file ./building.ArtGallery.pak
       packing building.ArtGallery
-WARNING: ignoring alpha channel
    writing file ./building.ArtGallery2.pak
       packing building.ArtGallery2
    writing file ./building.ArtGallery3.pak
       packing building.ArtGallery3
    writing file ./building.NationalFinanceCentre.pak
       packing building.NationalFinanceCentre
-WARNING: ignoring alpha channel
-WARNING: ignoring alpha channel
-WARNING: ignoring alpha channel
    writing file ./building.SoftwareCompany.pak
       packing building.SoftwareCompany
-WARNING: ignoring alpha channel
-WARNING: ignoring alpha channel
    writing file ./building.TVstation.pak
       packing building.TVstation
    writing file ./building.NatNewspaper.pak
@@ -98,7 +94,6 @@ WARNING: ignoring alpha channel
    writing file ./building.Fire.pak
       packing building.Fire
 WARNING: ignoring alpha channel
-WARNING: ignoring alpha channel
    writing file ./building.Embassy.pak
       packing building.Embassy
 WARNING: ignoring alpha channel
@@ -115,15 +110,12 @@ WARNING: ignoring alpha channel
       packing building.MetUni
    writing file ./building.FamousRestaurant.pak
       packing building.FamousRestaurant
-WARNING: ignoring alpha channel
-WARNING: ignoring alpha channel
    writing file ./building.OutdoorPool.pak
       packing building.OutdoorPool
    writing file ./building.LargeLibrary.pak
       packing building.LargeLibrary
    writing file ./building.Casino.pak
       packing building.Casino
-WARNING: ignoring alpha channel
 WARNING: ignoring alpha channel
    writing file ./building.LargePark.pak
       packing building.LargePark
