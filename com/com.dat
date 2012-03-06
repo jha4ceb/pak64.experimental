@@ -542,7 +542,7 @@ BackImage[0][0][0][1][0]=com.14.2
 BackImage[0][0][0][0][0]=com.15.2
 --------------------
 Obj=building
-Name=COM_NEW_1
+Name=COM_08_49
 copyright=Trikky
 Type=com
 chance=66
@@ -551,9 +551,10 @@ intro_year=1925
 retire_year=1950
 climates=temperate,tundra
 BackImage[0][0][0][0][0][0]=new-com1.1.0
+BackImage[0][0][0][0][0][1]=new-com1_w.1.0
 --------------------
 Obj=building
-Name=COM_NEW_2
+Name=COM_08_50
 copyright=Peter J. Dobrovka
 Type=com
 chance=66
@@ -562,6 +563,7 @@ intro_year=1955
 retire_year=1995
 climates=temperate,tundra
 BackImage[0][0][0][0][0][0]=new-com2.1.0
+BackImage[0][0][0][0][0][1]=new-com2_w.1.0
 --------------------
 
 

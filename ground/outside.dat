@@ -2,5 +2,5 @@ Obj=ground
 Name=Outside
 # hangtyp * animation
 #water outside
-Copyright=Pak64.Experimental 0.3
+Copyright=Pak64.Experimental 0.3.1
 Image[0][0]=outside.0.0
