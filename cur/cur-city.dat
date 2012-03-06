@@ -96,6 +96,7 @@ BackImage[0][1][1][0][0][1]=cur-city.1.5
 --------------------
 Obj=building
 Name=Tennis_Court
+copyright=Paul Szczepanek
 Type=cur
 Passengers=3
 Build_Time=5000
@@ -149,6 +150,7 @@ BackImage[1][1][2][0][0][1]=bigstadium.3.5
 --------------------
 Obj=building
 Name=Theatre
+copyright=Paul Szczepanek
 Type=cur
 Passengers=6
 Build_Time=4500

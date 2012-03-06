@@ -1,6 +1,6 @@
 # planes by MHz
 # Modified by Carl Baker for pak64.experimental, Sept 2011
-
+--
 
 
 obj=vehicle
@@ -12,7 +12,7 @@ copyright=MHz
 payload=8
 speed=80
 power=400
-gear=90
+gear=200
 weight=2
 cost=450000
 runningcost=60
@@ -23,8 +23,6 @@ fixed_maintenance=1250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
-
-
 intro_year=1901
 intro_month=1
 retire_year=1918
@@ -80,10 +78,10 @@ waytype=air
 engine_type=diesel
 freight=Passagiere
 payload=390
-speed=973
-power=34000
+speed=894
+power=44700
 gear=100
-weight=130
+weight=165
 cost=9000000
 runningcost=4330
 intro_year=1972
@@ -92,13 +90,8 @@ fixed_maintenance=1250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
-
 min_loading_time=1200
 max_loading_time=1200
-
-
-
-
 intro_month=1
 sound=5
 smoke=-1
@@ -125,20 +118,16 @@ freight=Passagiere
 payload=52
 speed=480
 power=3122
-gear=90
+gear=100
 weight=19
 cost=2900000
-
 comfort=150
 fixed_maintenance=9250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
 increase_maintenance_by_percent=400
-
-
 min_loading_time=1200
 max_loading_time=1200
-
 runningcost=205
 intro_year=1955
 intro_month=4
@@ -165,17 +154,13 @@ freight=Post
 payload=10
 speed=170
 power=888
-gear=90
+gear=32
 weight=3
 cost=800000
 runningcost=100
 intro_year=1916
-
-
-
 min_loading_time=1200
 max_loading_time=1200
-
 fixed_maintenance=1250
 increase_maintenance_after_years=20
 years_before_maintenance_max_reached=30
@@ -203,18 +188,16 @@ waytype=air
 engine_type=diesel
 freight=Post
 payload=520
-speed=800
-power=64000
+speed=750
+power=30000
 gear=90
-weight=210
+weight=130
 cost=11000000
 runningcost=6100
 intro_year=1970
 intro_month=4
 sound=5
 smoke=-1
-
-
 min_loading_time=1200
 max_loading_time=1200
 fixed_maintenance=1250
@@ -241,7 +224,7 @@ freight=Post
 payload=50
 speed=360
 power=331
-gear=90
+gear=136
 weight=5
 cost=2800000
 runningcost=707

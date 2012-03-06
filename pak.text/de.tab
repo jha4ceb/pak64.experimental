@@ -5,7 +5,7 @@
 #                             Language: de Deutsch                             #
 #                             Encoding: ISO-8859-1                             #
 #                            Font : Prop-Latin1.bdf                            #
-#                           Date Created: 14.02 2011                           #
+#                           Date Created: 21.01 2012                           #
 #                                                                              #
 #                                   authors:                                   #
 #                            Alexander Brose - AlexB                           #
@@ -46,6 +46,8 @@
 #                                    note:                                     #
 #                                    - Paco_m                                  #
 #                                    note:                                     #
+#                                   - Xelofino                                 #
+#                                    note:                                     #
 #                                 compo - compo                                #
 #                                    note:                                     #
 #                               Florian - floppy                               #
@@ -55,6 +57,8 @@
 #                            Jonas Bushart - jonasbb                           #
 #                                    note:                                     #
 #                                - jounior-fuchs                               #
+#                                    note:                                     #
+#                            Hendrik - missingpiece                            #
 #                                    note:                                     #
 #                              Markus Rex - msrex                              #
 #                                    note:                                     #
@@ -159,7 +163,7 @@ Hangar von 1900
 AirportShed1930
 Luftpost-Zwischenlager (von 1901)
 AirStop
-Gangway\n
+Gangway
 AirTerminal477
 50er-Jahre Terminal
 Avila_Big_StationBlg
@@ -175,13 +179,15 @@ Großes Terminalgebäude
 Bulk_StationBlg
 Bekohlungsanlage
 BusStop
-Bushaltestelle\n
+Bushaltestelle
 Car_StationBlg
 PKW-Verladeplatz
 CarDepot
 Depot für Straßenfahrzeuge
 CarStop
-Frachthof\n
+Frachthof
+CattlePorch
+Tierpferch
 ChannelStop
 Binnenhafen
 COM_00_01
@@ -308,10 +314,12 @@ GCG1TrainStop
 große Halle (linke Hälfte)
 GCG2TrainStop
 große Halle (rechte Hälfte)
+GCGTrainStop
+Große Halle
 Goods_StationBlg
 Lagerhalle
 Gymnasium
-Oberstufenzentrum\n\n\n(Ehemals Oberrealschule, jetzt\nOberstufenzentrum mit\ngymnasialer Oberstufe)\nDiese Bildungsanstalt mittlerweile\ndeutlich mehr Schulreformen\nals Anstriche miterlebt. Immerhin\nheizen jetzt im Keller ein paar\nPCs statt des alten Kohleofens.\n
+Oberstufenzentrum\n\n(Ehemals Oberrealschule, jetzt\nOberstufenzentrum mit\ngymnasialer Oberstufe)\nDiese Bildungsanstalt mittlerweile\ndeutlich mehr Schulreformen\nals Anstriche miterlebt. Immerhin\nheizen jetzt im Keller ein paar\nPCs statt des alten Kohleofens.\n
 HallBusStop
 Überdachtes Busterminal
 IND_00_01
@@ -376,6 +384,8 @@ IND_02_09
 Tanklager\n\nHier war schon immer\nRauchverbot am Arbeitsplatz.\nDennoch, die einzige\nfreundliche Farbe ist ein\nwinterliches Schneeweiß.\n
 IND_02_10
 Die alte Seifenfabrik hat trotz\nihres Alters bis heute eine\nblitzsaubere Fassade. Woran das\nwohl liegen mag?\n
+KingsbridgeMonastry
+Kloster\n\nin dem kürzlich in der alten Bibliothek eine alte Handschrift "Simutrans necesse est" über den Ursprung des Transportwesens auftauchte.
 LargeShipStop
 großer Frachtkran
 leftShipStop
@@ -383,7 +393,7 @@ Schwerlastkran
 LeuchtturmShipStop
 Überseekai mit Leuchtturm
 Lighthouse
-Leuchtturm\n\neinst der hellste Leuchtturm an\ndieser Küste. Doch seit die\nSchiffe per Radar-Autopilot\ndurch die Weltmeere\nrauschen, ist er heute nur\nnoch eine Touristenattraktion.\n
+Leuchtturm\n\nEinst der hellste Leuchtturm an\ndieser Küste. Doch seit die\nSchiffe per Radar-Autopilot\ndurch die Weltmeere\nrauschen, ist er heute nur\nnoch eine Touristenattraktion.\n
 LongBusStop
 Doppelhaltestelle
 MainTerminal1930
@@ -396,10 +406,12 @@ MonorailDepot
 Depot für Magnetschienenfahrzeuge
 MonorailFoundation
 Einschienenbahn Fundament
+MonorailGround
+Einschienenbahn Depot Fundament
 OldTownhall
 Altes Rathaus\n\nals noch jeder Bürger in der\nStadt eine Stimme hatte. (Der\nschlecht beleuchtete\nDachraum soll der Anlass für\ndie Schildbürger gewesen\nhaben, die Licht in Säcken\nhineinbringen wollten.)\n
 Patricks_Rock
-Basaltschlot\n\nVor vielen Millionen Jahren ist\nder Vulkan erloschen, seine\nLava im Berg erstarrt. Nebst\ngeologisch interessierten\nLeuten kommen viele\nAusflügler und Wanderer zum\nFelsen, denn die Quellen an\nseinem Fuss sind glasklar und das\nWasser erfrischend kühl. Auf den\nFelsen selbst darf man allerdings\nnur noch mit einer\nSonderbewilligung klettern.\n
+Basaltschlot\n\nVor vielen Millionen Jahren ist\nder Vulkan erloschen, seine\nLava im Berg erstarrt. Nebst\ngeologisch interessierten\nLeuten kommen viele\nAusflügler und Wanderer zum\nFelsen, denn die heißen Quellen an\nseinem Fuss sind berühmt für ihre Heilkraft.\nAuf den Felsen selbst darf man allerdings\nnur noch mit einer\nSonderbewilligung klettern.\n
 PlainAirStop
 Flugzeughalt
 PostOffice
@@ -513,17 +525,17 @@ Halt ohne Bahnsteig
 ShipDepot
 Werft
 ShipDepotEW
-Schiffsdepot\n
+Schiffsdepot
 ShipStop
 Hafen
 STADIUM2
 Großes Stadion\n\nHier finden all die großen\ninternationalen Ereignisse statt.\n
 Tennis_Court
-Tennisplätze\n
+Tennisplätze\n\nDie Anwohner sehnen den Winter herbei, um endlich draußen zu sitzen.
 Terminal1930
 Flughafenabfertigungshalle v.1930
 Theatre
-Musicaltheater\n
+Musicaltheater\n\nSeit nur noch populäre Stücke auf dem Spielplan sethen, ist das Hause wieder voll.
 Tower1930
 Flughafenkontrollturm v.1930
 TowerMoistboy
@@ -531,7 +543,7 @@ Kontrollturm
 TrainDepot
 Eisenbahndepot
 TrainStop
-überdachter Bahnsteig\n
+überdachter Bahnsteig
 TrainStopMaglev
 Bahnsteig Magnetschwebebahn
 TrainStopMaglevIndicator
@@ -543,7 +555,7 @@ Stationsgebäude in viktorianischem Stil
 Vorplatz
 Bahnhofsvorplatz
 Windmill
-Windmühle\n
+Windmühle\n\n
 #____________________________________citycar____________________________________
 #____________________________________citycar____________________________________
 Ambulanz
@@ -573,7 +585,7 @@ factory_Buchgrosshandel_details
 factory_ChemicalPlant_details
 <title>Chemiefabrik Details</title><h1>Chemiefabrik Details</h1><p>Schon seit Anfang des Jahrhunderts werden hier Chemikalien und Druckerfarbe produziert.</p>
 factory_Concretefactory_details
-<title>Gasbetonwerk Details</title><h1>Gasbetonwerk</h1><p>Diese Fabrik stellt aus Kalk, Wasser, Sand und ein ganz bisschen Aluminium Gasbeton (jetzt Porenbeton) her. Die Poren kommen durch die Entstehung von Wasserstoff, wenn das Aluminiumpulver mit dem Wasser reagiert.</p><p>Gasbeton ist sehr leicht, isoliert gut und ist ein sehr veilseitig verwendeter Rohstoff. Erfunden wurde er in den 20er Jahren des 20. Jahrhunderts.</p>\n
+<title>Gasbetonwerk Details</title><h1>Gasbetonwerk</h1><p>Diese Fabrik stellt aus Kalk, Wasser, Sand und ein ganz bisschen Aluminium Gasbeton (jetzt Porenbeton) her. Die Poren kommen durch die Entstehung von Wasserstoff, wenn das Aluminiumpulver mit dem Wasser reagiert.</p><p>Gasbeton ist sehr leicht, isoliert gut und ist ein sehr vielseitig verwendeter Rohstoff. Erfunden wurde er in den 20er Jahren des 20. Jahrhunderts.</p>\n
 factory_Erzbergwerk_details
 <title>Erzbergwerk Details</title><h1>Erzbergwerk</h1>\n<p>Neben Salz zählt Eisen zu den ältesten bergbaulich gewonnenen \nProdukten. 8. - 15. Jh v.Chr. Eisenzeit (Kelten).\nVortrieb und Erzabbau waren bis ins 17. Jh reine Handarbeit. Um \ndas Gestein mürbe zu machen, brannte man große Holzstöße ab \n(Feuersetzarbeit). Heutzutage wird aber wegen dem einfacheren Zugang einfach der Berg darüber abgetragen, so auch in diesem Erzbergwerk im Tagebau.</p><p>Die ergiebigsten Eisenerzlager befinden sich in geologisch alten Gesteinsschichten; sie entstanden, als die ersten Photosynthesealgen die Meere mit Sauerstoff anreicherten und das im Meer gelöste Eisen sich als Rost auf den Stränden und auf dem Meeresgrund absetzte.</p>
 factory_fish_pond_details
@@ -704,8 +716,6 @@ TANKE
 Tankstelle
 thermisches_Solarkraftwerk
 thermisches Solarkraftwerk
-Windkraftwerk
-Windkraftwerk\n
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 beer
@@ -756,6 +766,8 @@ bushes
 Büsche
 deco_rock
 Felsen
+deco_rock_2
+Findling
 flowers
 Blumen
 gemsen
@@ -842,6 +854,8 @@ preSignalsMonorail
 Zwei-Block-Signal
 RailClose
 Gleissperre
+Railgate
+Freigabesignal für andere Spieler
 Signals
 Signale
 SignalsMonorail
@@ -871,21 +885,21 @@ Kiefer\n
 Kiefer_5
 Kiefer\n
 Latschenkiefer
-Latsche (Bergkiefer, Legföhre)\nPinus montana\n\nImmergrüner nadeltragender Strauch bis\n6 m Höhe. Verbreitet in den\nGebirgen Mittel- und\nSüdeuropas bis in Höhen von\n2400m. Großflächige Bestände\nvor allem an der oberen\nWaldgrenze auf steinigen Böden\nund in Hochmooren. Das harte,\nharzreiche Holz wird auf den\nHochalmen als Brennholz\nverwendet. Aus den jungen\nSprossen gewinnt man Öl, das als\nDuftöl (Latschenkiefernöl) und\nInhalationsmittel verwendet\nwird.\n
+Latsche\n(Bergkiefer, Legföhre)\n\nPinus montana\n\nImmergrüner nadeltragender Strauch bis\n6 m Höhe. Verbreitet in den\nGebirgen Mittel- und\nSüdeuropas bis in Höhen von\n2400m. Großflächige Bestände\nvor allem an der oberen\nWaldgrenze auf steinigen Böden\nund in Hochmooren. Das harte,\nharzreiche Holz wird auf den\nHochalmen als Brennholz\nverwendet. Aus den jungen\nSprossen gewinnt man Öl, das als\nDuftöl (Latschenkiefernöl) und\nInhalationsmittel verwendet\nwird.\n
 Palmtree1
 Palme\n
 Palmtree2
-Palme
+Palme\n
 Palmtree3
-Palme
+Palme\n
 Palmtree4
-Palme
+Palme\n
 Palmtree5
-Palme
+Palme\n
 Palmtree6
-Palme
+Palme\n
 Palmtree7
-Palme
+Palme\n
 Pappel-1
 Pappel\n
 Pappel-2
@@ -903,7 +917,7 @@ Tanne\n
 Tanne_6
 Tanne\n
 Tree4
-Kiefern sind weltweit\ngesehen die wichtigsten\nBaumarten der\nForstwirtschaft. Meist\nanspruchslos und gutwüchsig,\nwerden sie oft an Stelle der\neinheimischen Baumarten für die\neffektive Wiederaufforstungen\nnach Waldzerstörungen und\nRodungen verwendet. Ursprung\nsind eigentlich aus kühl-feuchten\nKlimabereichen. Angebaut werden\nKiefern aber inzwischen weltweit\n- außer in der Antarktis.\n
+Kiefer\n\nKiefern sind weltweit\ngesehen die wichtigsten\nBaumarten der\nForstwirtschaft. Meist\nanspruchslos und gutwüchsig,\nwerden sie oft an Stelle der\neinheimischen Baumarten für die\neffektive Wiederaufforstungen\nnach Waldzerstörungen und\nRodungen verwendet. Ursprung\nsind eigentlich aus kühl-feuchten\nKlimabereichen. Angebaut werden\nKiefern aber inzwischen weltweit\n- außer in der Antarktis.\n
 Tree6
 Fichte (Rotfichte, Rottanne)\nPicea abies\n\nWeitverbreiteter, schlanker, immergrüner\nNadelbaum. Er erreicht eine\nHöhe von 35 bis 65m, einen\nStammdurchmesser bis 2m und\nein Alter bis zu 1000 Jahren.\nNatürliche Standorte sind Nord-\nund Osteuropa sowie die Gebirge\nMitteleuropas. Durch künstliche\nVerbreitung auch in tieferen\nRegionen angesiedelt. Daher der\nName "Brotbaum der heimischen\nForstwirtschaft". Verwendung:\nAussen- und Innenbau,\nUntertagebau, Gerüstebau,\nSpanplatten, Resonanzholz für\nMusikinstrumente, Zellulose- und\nPapierindustrie.\n
 Willow
@@ -994,8 +1008,6 @@ BR39
 Br39
 BR45
 Br45
-BR45-Tender
-BR45 Tender
 Br614back
 Br614
 Br614car
@@ -1010,6 +1022,8 @@ Brettertransporter
 WF Ultd. Brettertransporter
 Bretterwagen
 VT Wien Rungenwagen Bretter
+BRV36
+Br V36
 Buchanhaenger
 Anhänger für Bücher (Serj)
 Buchtrailer
@@ -1276,6 +1290,8 @@ Pferdebahn
 Gespann für Pferdebahnen
 Pferdebahnwagen
 Personenwagen (pferdegezogen)
+PonyExpress
+reitende Bote
 Postschiff
 Postboot
 Posttransporter
@@ -1354,14 +1370,16 @@ Viggen
 Schärenfähre
 VolvoFH12
 Volvo FH12 Sattelschlepper
-waste wagon
-Müllwaggon
 X2000back
 X-2000 hinten
 X2000car
 X-2000 Wagen
 X2000front
 X-2000 vorn
+XMail
+Kirayami X-1 Postwagen
+XTest
+Kirayami X-1
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 asphalt_road

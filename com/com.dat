@@ -52,13 +52,16 @@ BackImage[0][0][0][0][0]=com.1.2
 
 --------------------
 Obj=building
-Name=COM_01_04
+Name=COM_12_04
+copyright=Vilvoh GPLv3
 Type=com
-
 Level=4
-chance=40
-intro_year=1939
-climates=desert,tropic,mediterran,temperateBackImage[0][0][0][0][0][0]=com.1.4
+chance=45
+intro_year=1
+needs_ground=1
+climates=tropic,mediterran
+BackImage[0][0][0][0][0][0]=com.1.4
+BackImage[0][0][0][0][0][1]=winter-com.1.4
 
 
 --------------------
@@ -73,9 +76,6 @@ climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=com.2.2
 BackImage[0][0][0][0][0][1]=winter-com.2.2
 
-
-
-
 --------------------
 Obj=building
 Name=COM_10_02
@@ -88,6 +88,8 @@ needs_ground=1
 climates=tropic,mediterran,temperate,tundra,rocky,arctic
 BackImage[0][0][0][0][0][0]=com.3.2
 BackImage[0][0][0][0][0][1]=winter-com.3.2
+
+
 --------------------
 Obj=building
 Name=COM_00_03
